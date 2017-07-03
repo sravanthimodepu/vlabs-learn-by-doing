@@ -56,8 +56,8 @@
             "cd ../;make build"
           ],
           "post_build": [
-            "cp -R ../build/docs/moodle /var/www/",
-            "chmod -R 755 /var/www"
+            "cp -r ../build/docs/moodle /var/www/html/",
+            "chmod -R 755 /var/www/html/*"
           ],
           "status": []
         }
@@ -75,7 +75,7 @@
           "min_required": "2gb"
         },
         "storage": {
-          "min_required": "10gb"
+          "min_required": "20gb"
         },
         "installer": [
           "bash /root/vlabs-learn-by-doing/scripts/mysql-server.sh",
