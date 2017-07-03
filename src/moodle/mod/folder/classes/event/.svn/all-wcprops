@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mhrd/!svn/ver/18/Code/moodle/mod/folder/classes/event
+END
+folder_updated.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mhrd/!svn/ver/18/Code/moodle/mod/folder/classes/event/folder_updated.php
+END
+course_module_instance_list_viewed.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mhrd/!svn/ver/18/Code/moodle/mod/folder/classes/event/course_module_instance_list_viewed.php
+END
+course_module_viewed.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mhrd/!svn/ver/18/Code/moodle/mod/folder/classes/event/course_module_viewed.php
+END

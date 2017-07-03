@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mhrd/!svn/ver/18/Code/moodle/mod/scorm/classes/event
+END
+tracks_viewed.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mhrd/!svn/ver/18/Code/moodle/mod/scorm/classes/event/tracks_viewed.php
+END
+user_report_viewed.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mhrd/!svn/ver/18/Code/moodle/mod/scorm/classes/event/user_report_viewed.php
+END
+report_viewed.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mhrd/!svn/ver/18/Code/moodle/mod/scorm/classes/event/report_viewed.php
+END
+attempt_deleted.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mhrd/!svn/ver/18/Code/moodle/mod/scorm/classes/event/attempt_deleted.php
+END
+interactions_viewed.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mhrd/!svn/ver/18/Code/moodle/mod/scorm/classes/event/interactions_viewed.php
+END
+course_module_instance_list_viewed.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mhrd/!svn/ver/18/Code/moodle/mod/scorm/classes/event/course_module_instance_list_viewed.php
+END
+sco_launched.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mhrd/!svn/ver/18/Code/moodle/mod/scorm/classes/event/sco_launched.php
+END
+course_module_viewed.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mhrd/!svn/ver/18/Code/moodle/mod/scorm/classes/event/course_module_viewed.php
+END

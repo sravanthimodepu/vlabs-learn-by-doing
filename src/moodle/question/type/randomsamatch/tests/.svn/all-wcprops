@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mhrd/!svn/ver/18/Code/moodle/question/type/randomsamatch/tests
+END
+upgradelibnewqe_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mhrd/!svn/ver/18/Code/moodle/question/type/randomsamatch/tests/upgradelibnewqe_test.php
+END
+walkthrough_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mhrd/!svn/ver/18/Code/moodle/question/type/randomsamatch/tests/walkthrough_test.php
+END
+helper.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mhrd/!svn/ver/18/Code/moodle/question/type/randomsamatch/tests/helper.php
+END
+question_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mhrd/!svn/ver/18/Code/moodle/question/type/randomsamatch/tests/question_test.php
+END

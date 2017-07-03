@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mhrd/!svn/ver/18/Code/moodle/mod/forum/tests/behat
+END
+edit_post_teacher.feature
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mhrd/!svn/ver/18/Code/moodle/mod/forum/tests/behat/edit_post_teacher.feature
+END
+behat_mod_forum.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mhrd/!svn/ver/18/Code/moodle/mod/forum/tests/behat/behat_mod_forum.php
+END
+separate_group_discussions.feature
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mhrd/!svn/ver/18/Code/moodle/mod/forum/tests/behat/separate_group_discussions.feature
+END
+track_read_posts.feature
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mhrd/!svn/ver/18/Code/moodle/mod/forum/tests/behat/track_read_posts.feature
+END
+discussion_display.feature
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mhrd/!svn/ver/18/Code/moodle/mod/forum/tests/behat/discussion_display.feature
+END
+forum_subscriptions_availability.feature
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mhrd/!svn/ver/18/Code/moodle/mod/forum/tests/behat/forum_subscriptions_availability.feature
+END
+single_forum_discussion.feature
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mhrd/!svn/ver/18/Code/moodle/mod/forum/tests/behat/single_forum_discussion.feature
+END
+completion_condition_number_discussions.feature
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mhrd/!svn/ver/18/Code/moodle/mod/forum/tests/behat/completion_condition_number_discussions.feature
+END
+add_forum.feature
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mhrd/!svn/ver/18/Code/moodle/mod/forum/tests/behat/add_forum.feature
+END
+edit_post_student.feature
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mhrd/!svn/ver/18/Code/moodle/mod/forum/tests/behat/edit_post_student.feature
+END
+separate_group_single_group_discussions.feature
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mhrd/!svn/ver/18/Code/moodle/mod/forum/tests/behat/separate_group_single_group_discussions.feature
+END

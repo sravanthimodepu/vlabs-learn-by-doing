@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mhrd/!svn/ver/18/Code/moodle/lib/phpexcel/PHPExcel/RichText
+END
+TextElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mhrd/!svn/ver/18/Code/moodle/lib/phpexcel/PHPExcel/RichText/TextElement.php
+END
+Run.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mhrd/!svn/ver/18/Code/moodle/lib/phpexcel/PHPExcel/RichText/Run.php
+END
+ITextElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mhrd/!svn/ver/18/Code/moodle/lib/phpexcel/PHPExcel/RichText/ITextElement.php
+END

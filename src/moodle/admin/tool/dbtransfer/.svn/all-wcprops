@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mhrd/!svn/ver/18/Code/moodle/admin/tool/dbtransfer
+END
+database_transfer_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mhrd/!svn/ver/18/Code/moodle/admin/tool/dbtransfer/database_transfer_form.php
+END
+settings.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mhrd/!svn/ver/18/Code/moodle/admin/tool/dbtransfer/settings.php
+END
+locallib.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mhrd/!svn/ver/18/Code/moodle/admin/tool/dbtransfer/locallib.php
+END
+version.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mhrd/!svn/ver/18/Code/moodle/admin/tool/dbtransfer/version.php
+END
+dbexport.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mhrd/!svn/ver/18/Code/moodle/admin/tool/dbtransfer/dbexport.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mhrd/!svn/ver/18/Code/moodle/admin/tool/dbtransfer/index.php
+END
+database_export_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mhrd/!svn/ver/18/Code/moodle/admin/tool/dbtransfer/database_export_form.php
+END

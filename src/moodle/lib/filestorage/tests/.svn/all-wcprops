@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mhrd/!svn/ver/18/Code/moodle/lib/filestorage/tests
+END
+mbz_packer_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mhrd/!svn/ver/18/Code/moodle/lib/filestorage/tests/mbz_packer_test.php
+END
+file_storage_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mhrd/!svn/ver/18/Code/moodle/lib/filestorage/tests/file_storage_test.php
+END
+zip_packer_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mhrd/!svn/ver/18/Code/moodle/lib/filestorage/tests/zip_packer_test.php
+END
+tgz_packer_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mhrd/!svn/ver/18/Code/moodle/lib/filestorage/tests/tgz_packer_test.php
+END

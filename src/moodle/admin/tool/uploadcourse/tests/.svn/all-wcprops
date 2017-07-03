@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mhrd/!svn/ver/18/Code/moodle/admin/tool/uploadcourse/tests
+END
+helper_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mhrd/!svn/ver/18/Code/moodle/admin/tool/uploadcourse/tests/helper_test.php
+END
+processor_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mhrd/!svn/ver/18/Code/moodle/admin/tool/uploadcourse/tests/processor_test.php
+END
+course_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mhrd/!svn/ver/18/Code/moodle/admin/tool/uploadcourse/tests/course_test.php
+END

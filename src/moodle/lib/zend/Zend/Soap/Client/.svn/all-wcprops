@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Soap/Client
+END
+Local.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Soap/Client/Local.php
+END
+DotNet.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Soap/Client/DotNet.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Soap/Client/Exception.php
+END
+Common.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Soap/Client/Common.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Amf/Value
+END
+MessageHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Amf/Value/MessageHeader.php
+END
+ByteArray.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Amf/Value/ByteArray.php
+END
+MessageBody.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Amf/Value/MessageBody.php
+END
+TraitsInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Amf/Value/TraitsInfo.php
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/mhrd/!svn/ver/18/Code/moodle/auth/ldap
+END
+ntlmsso_attempt.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mhrd/!svn/ver/18/Code/moodle/auth/ldap/ntlmsso_attempt.php
+END
+ntlmsso_finish.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mhrd/!svn/ver/18/Code/moodle/auth/ldap/ntlmsso_finish.php
+END
+ntlmsso_magic.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mhrd/!svn/ver/18/Code/moodle/auth/ldap/ntlmsso_magic.php
+END
+auth.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mhrd/!svn/ver/18/Code/moodle/auth/ldap/auth.php
+END
+config.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mhrd/!svn/ver/18/Code/moodle/auth/ldap/config.html
+END
+README-LDAP
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mhrd/!svn/ver/18/Code/moodle/auth/ldap/README-LDAP
+END
+version.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mhrd/!svn/ver/18/Code/moodle/auth/ldap/version.php
+END

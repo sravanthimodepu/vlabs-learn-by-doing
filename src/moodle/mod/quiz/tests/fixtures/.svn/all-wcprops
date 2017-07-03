@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mhrd/!svn/ver/18/Code/moodle/mod/quiz/tests/fixtures
+END
+questions00.csv
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mhrd/!svn/ver/18/Code/moodle/mod/quiz/tests/fixtures/questions00.csv
+END
+quizzes.csv
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mhrd/!svn/ver/18/Code/moodle/mod/quiz/tests/fixtures/quizzes.csv
+END
+questions01.csv
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mhrd/!svn/ver/18/Code/moodle/mod/quiz/tests/fixtures/questions01.csv
+END
+steps00.csv
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mhrd/!svn/ver/18/Code/moodle/mod/quiz/tests/fixtures/steps00.csv
+END
+steps01.csv
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mhrd/!svn/ver/18/Code/moodle/mod/quiz/tests/fixtures/steps01.csv
+END
+results00.csv
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mhrd/!svn/ver/18/Code/moodle/mod/quiz/tests/fixtures/results00.csv
+END
+results01.csv
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mhrd/!svn/ver/18/Code/moodle/mod/quiz/tests/fixtures/results01.csv
+END

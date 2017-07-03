@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mhrd/!svn/ver/18/Code/moodle/lib/htmlpurifier/HTMLPurifier/HTMLModule/Tidy
+END
+XHTML.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mhrd/!svn/ver/18/Code/moodle/lib/htmlpurifier/HTMLPurifier/HTMLModule/Tidy/XHTML.php
+END
+Name.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mhrd/!svn/ver/18/Code/moodle/lib/htmlpurifier/HTMLPurifier/HTMLModule/Tidy/Name.php
+END
+Proprietary.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mhrd/!svn/ver/18/Code/moodle/lib/htmlpurifier/HTMLPurifier/HTMLModule/Tidy/Proprietary.php
+END
+Transitional.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mhrd/!svn/ver/18/Code/moodle/lib/htmlpurifier/HTMLPurifier/HTMLModule/Tidy/Transitional.php
+END
+Strict.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mhrd/!svn/ver/18/Code/moodle/lib/htmlpurifier/HTMLPurifier/HTMLModule/Tidy/Strict.php
+END
+XHTMLAndHTML4.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mhrd/!svn/ver/18/Code/moodle/lib/htmlpurifier/HTMLPurifier/HTMLModule/Tidy/XHTMLAndHTML4.php
+END

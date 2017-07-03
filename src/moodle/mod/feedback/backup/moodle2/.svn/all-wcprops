@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mhrd/!svn/ver/18/Code/moodle/mod/feedback/backup/moodle2
+END
+restore_feedback_activity_task.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mhrd/!svn/ver/18/Code/moodle/mod/feedback/backup/moodle2/restore_feedback_activity_task.class.php
+END
+backup_feedback_activity_task.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mhrd/!svn/ver/18/Code/moodle/mod/feedback/backup/moodle2/backup_feedback_activity_task.class.php
+END
+restore_feedback_stepslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mhrd/!svn/ver/18/Code/moodle/mod/feedback/backup/moodle2/restore_feedback_stepslib.php
+END
+backup_feedback_stepslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mhrd/!svn/ver/18/Code/moodle/mod/feedback/backup/moodle2/backup_feedback_stepslib.php
+END
+backup_feedback_settingslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mhrd/!svn/ver/18/Code/moodle/mod/feedback/backup/moodle2/backup_feedback_settingslib.php
+END

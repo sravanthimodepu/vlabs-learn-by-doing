@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/XmlRpc/Client
+END
+IntrospectException.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/XmlRpc/Client/IntrospectException.php
+END
+FaultException.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/XmlRpc/Client/FaultException.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/XmlRpc/Client/Exception.php
+END
+HttpException.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/XmlRpc/Client/HttpException.php
+END
+ServerIntrospection.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/XmlRpc/Client/ServerIntrospection.php
+END
+ServerProxy.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/XmlRpc/Client/ServerProxy.php
+END

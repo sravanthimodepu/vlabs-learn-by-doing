@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/mhrd/!svn/ver/18/Code/moodle/filter/algebra
+END
+thirdpartylibs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mhrd/!svn/ver/18/Code/moodle/filter/algebra/thirdpartylibs.xml
+END
+pix.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mhrd/!svn/ver/18/Code/moodle/filter/algebra/pix.php
+END
+algebra2tex.pl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mhrd/!svn/ver/18/Code/moodle/filter/algebra/algebra2tex.pl
+END
+algebradebug.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mhrd/!svn/ver/18/Code/moodle/filter/algebra/algebradebug.php
+END
+AlgParser.pm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mhrd/!svn/ver/18/Code/moodle/filter/algebra/AlgParser.pm
+END
+filter.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mhrd/!svn/ver/18/Code/moodle/filter/algebra/filter.php
+END
+version.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mhrd/!svn/ver/18/Code/moodle/filter/algebra/version.php
+END

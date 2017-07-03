@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mhrd/!svn/ver/18/Code/moodle/auth/cas/CAS/CAS
+END
+OutOfSequenceBeforeProxyException.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mhrd/!svn/ver/18/Code/moodle/auth/cas/CAS/CAS/OutOfSequenceBeforeProxyException.php
+END
+ProxiedService.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mhrd/!svn/ver/18/Code/moodle/auth/cas/CAS/CAS/ProxiedService.php
+END
+GracefullTerminationException.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mhrd/!svn/ver/18/Code/moodle/auth/cas/CAS/CAS/GracefullTerminationException.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mhrd/!svn/ver/18/Code/moodle/auth/cas/CAS/CAS/Exception.php
+END
+AuthenticationException.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mhrd/!svn/ver/18/Code/moodle/auth/cas/CAS/CAS/AuthenticationException.php
+END
+OutOfSequenceException.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mhrd/!svn/ver/18/Code/moodle/auth/cas/CAS/CAS/OutOfSequenceException.php
+END
+ProxyTicketException.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mhrd/!svn/ver/18/Code/moodle/auth/cas/CAS/CAS/ProxyTicketException.php
+END
+CookieJar.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mhrd/!svn/ver/18/Code/moodle/auth/cas/CAS/CAS/CookieJar.php
+END
+InvalidArgumentException.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mhrd/!svn/ver/18/Code/moodle/auth/cas/CAS/CAS/InvalidArgumentException.php
+END
+Autoload.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mhrd/!svn/ver/18/Code/moodle/auth/cas/CAS/CAS/Autoload.php
+END
+Client.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mhrd/!svn/ver/18/Code/moodle/auth/cas/CAS/CAS/Client.php
+END
+OutOfSequenceBeforeAuthenticationCallException.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mhrd/!svn/ver/18/Code/moodle/auth/cas/CAS/CAS/OutOfSequenceBeforeAuthenticationCallException.php
+END
+ProxyChain.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mhrd/!svn/ver/18/Code/moodle/auth/cas/CAS/CAS/ProxyChain.php
+END
+TypeMismatchException.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mhrd/!svn/ver/18/Code/moodle/auth/cas/CAS/CAS/TypeMismatchException.php
+END
+OutOfSequenceBeforeClientException.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mhrd/!svn/ver/18/Code/moodle/auth/cas/CAS/CAS/OutOfSequenceBeforeClientException.php
+END

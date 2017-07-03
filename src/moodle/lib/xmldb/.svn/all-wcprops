@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/mhrd/!svn/ver/18/Code/moodle/lib/xmldb
+END
+xmldb_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mhrd/!svn/ver/18/Code/moodle/lib/xmldb/xmldb_field.php
+END
+xmldb.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mhrd/!svn/ver/18/Code/moodle/lib/xmldb/xmldb.dtd
+END
+xmldb_object.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mhrd/!svn/ver/18/Code/moodle/lib/xmldb/xmldb_object.php
+END
+xmldb.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mhrd/!svn/ver/18/Code/moodle/lib/xmldb/xmldb.xsd
+END
+xmldb_index.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mhrd/!svn/ver/18/Code/moodle/lib/xmldb/xmldb_index.php
+END
+xmldb_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mhrd/!svn/ver/18/Code/moodle/lib/xmldb/xmldb_table.php
+END
+xmldb_key.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mhrd/!svn/ver/18/Code/moodle/lib/xmldb/xmldb_key.php
+END
+xmldb_constants.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mhrd/!svn/ver/18/Code/moodle/lib/xmldb/xmldb_constants.php
+END
+xmldb_file.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mhrd/!svn/ver/18/Code/moodle/lib/xmldb/xmldb_file.php
+END
+xmldb_structure.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mhrd/!svn/ver/18/Code/moodle/lib/xmldb/xmldb_structure.php
+END

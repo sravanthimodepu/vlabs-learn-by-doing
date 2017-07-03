@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mhrd/!svn/ver/18/Code/moodle/mod/scorm/backup/moodle2
+END
+backup_scorm_activity_task.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mhrd/!svn/ver/18/Code/moodle/mod/scorm/backup/moodle2/backup_scorm_activity_task.class.php
+END
+restore_scorm_stepslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mhrd/!svn/ver/18/Code/moodle/mod/scorm/backup/moodle2/restore_scorm_stepslib.php
+END
+backup_scorm_stepslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mhrd/!svn/ver/18/Code/moodle/mod/scorm/backup/moodle2/backup_scorm_stepslib.php
+END
+restore_scorm_activity_task.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mhrd/!svn/ver/18/Code/moodle/mod/scorm/backup/moodle2/restore_scorm_activity_task.class.php
+END

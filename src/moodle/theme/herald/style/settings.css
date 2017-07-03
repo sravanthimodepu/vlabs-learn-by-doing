@@ -1,0 +1,28 @@
+/* Settings */
+ul.breadcrumb li + li:before {
+  content: "[[setting:navbarsep]]";
+  display: inline-block;
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.bg-slider-wrapper .slide {
+  display: block;
+  height: 780px;
+}
+.bg-slider-wrapper .slide.slide-1 {
+  background: #494d55 url('[[setting:slide1image]]') no-repeat 50% top;
+}
+.bg-slider-wrapper .slide.slide-2 {
+  background: #6f7581 url('[[setting:slide2image]]') no-repeat 50% top;
+}
+.bg-slider-wrapper .slide.slide-3 {
+  background: #6f7581 url('[[setting:slide3image]]') no-repeat 50% top;
+}
+.bg-slider-wrapper .slide.slide-4 {
+  background: #6f7581 url('[[setting:slide4image]]') no-repeat 50% top;
+}
+[[setting:customcss]]

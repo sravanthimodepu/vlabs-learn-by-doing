@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/mhrd/!svn/ver/18/Code/moodle/mod/book
+END
+settings.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mhrd/!svn/ver/18/Code/moodle/mod/book/settings.php
+END
+mod_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mhrd/!svn/ver/18/Code/moodle/mod/book/mod_form.php
+END
+delete.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mhrd/!svn/ver/18/Code/moodle/mod/book/delete.php
+END
+move.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mhrd/!svn/ver/18/Code/moodle/mod/book/move.php
+END
+lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mhrd/!svn/ver/18/Code/moodle/mod/book/lib.php
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mhrd/!svn/ver/18/Code/moodle/mod/book/README.md
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mhrd/!svn/ver/18/Code/moodle/mod/book/index.php
+END
+edit_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mhrd/!svn/ver/18/Code/moodle/mod/book/edit_form.php
+END
+view.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mhrd/!svn/ver/18/Code/moodle/mod/book/view.php
+END
+upgrade.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/mhrd/!svn/ver/18/Code/moodle/mod/book/upgrade.txt
+END
+show.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mhrd/!svn/ver/18/Code/moodle/mod/book/show.php
+END
+locallib.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mhrd/!svn/ver/18/Code/moodle/mod/book/locallib.php
+END
+styles.css
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mhrd/!svn/ver/18/Code/moodle/mod/book/styles.css
+END
+version.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/mhrd/!svn/ver/18/Code/moodle/mod/book/version.php
+END
+edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mhrd/!svn/ver/18/Code/moodle/mod/book/edit.php
+END

@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/mhrd/!svn/ver/18/Code/moodle/lang/en
+END
+error.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mhrd/!svn/ver/18/Code/moodle/lang/en/error.php
+END
+dbtransfer.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mhrd/!svn/ver/18/Code/moodle/lang/en/dbtransfer.php
+END
+group.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mhrd/!svn/ver/18/Code/moodle/lang/en/group.php
+END
+imscc.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mhrd/!svn/ver/18/Code/moodle/lang/en/imscc.php
+END
+plugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mhrd/!svn/ver/18/Code/moodle/lang/en/plugin.php
+END
+webservice.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mhrd/!svn/ver/18/Code/moodle/lang/en/webservice.php
+END
+access.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mhrd/!svn/ver/18/Code/moodle/lang/en/access.php
+END
+auth.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mhrd/!svn/ver/18/Code/moodle/lang/en/auth.php
+END
+cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mhrd/!svn/ver/18/Code/moodle/lang/en/cache.php
+END
+edufields.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mhrd/!svn/ver/18/Code/moodle/lang/en/edufields.php
+END
+grades.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mhrd/!svn/ver/18/Code/moodle/lang/en/grades.php
+END
+search.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mhrd/!svn/ver/18/Code/moodle/lang/en/search.php
+END
+langconfig.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mhrd/!svn/ver/18/Code/moodle/lang/en/langconfig.php
+END
+question.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/mhrd/!svn/ver/18/Code/moodle/lang/en/question.php
+END
+filters.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mhrd/!svn/ver/18/Code/moodle/lang/en/filters.php
+END
+completion.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mhrd/!svn/ver/18/Code/moodle/lang/en/completion.php
+END
+grading.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mhrd/!svn/ver/18/Code/moodle/lang/en/grading.php
+END
+countries.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mhrd/!svn/ver/18/Code/moodle/lang/en/countries.php
+END
+tag.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/mhrd/!svn/ver/18/Code/moodle/lang/en/tag.php
+END
+mimetypes.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mhrd/!svn/ver/18/Code/moodle/lang/en/mimetypes.php
+END
+timezones.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mhrd/!svn/ver/18/Code/moodle/lang/en/timezones.php
+END
+iso6392.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mhrd/!svn/ver/18/Code/moodle/lang/en/iso6392.php
+END
+hub.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/mhrd/!svn/ver/18/Code/moodle/lang/en/hub.php
+END
+editor.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mhrd/!svn/ver/18/Code/moodle/lang/en/editor.php
+END
+table.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mhrd/!svn/ver/18/Code/moodle/lang/en/table.php
+END
+admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mhrd/!svn/ver/18/Code/moodle/lang/en/admin.php
+END
+notes.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mhrd/!svn/ver/18/Code/moodle/lang/en/notes.php
+END
+block.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mhrd/!svn/ver/18/Code/moodle/lang/en/block.php
+END
+cohort.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mhrd/!svn/ver/18/Code/moodle/lang/en/cohort.php
+END
+pix.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/mhrd/!svn/ver/18/Code/moodle/lang/en/pix.php
+END
+role.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mhrd/!svn/ver/18/Code/moodle/lang/en/role.php
+END
+currencies.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mhrd/!svn/ver/18/Code/moodle/lang/en/currencies.php
+END
+form.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mhrd/!svn/ver/18/Code/moodle/lang/en/form.php
+END
+mathslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/mhrd/!svn/ver/18/Code/moodle/lang/en/mathslib.php
+END
+mnet.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mhrd/!svn/ver/18/Code/moodle/lang/en/mnet.php
+END
+backup.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mhrd/!svn/ver/18/Code/moodle/lang/en/backup.php
+END
+install.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mhrd/!svn/ver/18/Code/moodle/lang/en/install.php
+END
+calendar.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/mhrd/!svn/ver/18/Code/moodle/lang/en/calendar.php
+END
+availability.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mhrd/!svn/ver/18/Code/moodle/lang/en/availability.php
+END
+portfolio.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mhrd/!svn/ver/18/Code/moodle/lang/en/portfolio.php
+END
+pagetype.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/mhrd/!svn/ver/18/Code/moodle/lang/en/pagetype.php
+END
+enrol.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mhrd/!svn/ver/18/Code/moodle/lang/en/enrol.php
+END
+bulkusers.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mhrd/!svn/ver/18/Code/moodle/lang/en/bulkusers.php
+END
+media.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mhrd/!svn/ver/18/Code/moodle/lang/en/media.php
+END
+moodle.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mhrd/!svn/ver/18/Code/moodle/lang/en/moodle.php
+END
+repository.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mhrd/!svn/ver/18/Code/moodle/lang/en/repository.php
+END
+license.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mhrd/!svn/ver/18/Code/moodle/lang/en/license.php
+END
+blog.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mhrd/!svn/ver/18/Code/moodle/lang/en/blog.php
+END
+message.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mhrd/!svn/ver/18/Code/moodle/lang/en/message.php
+END
+rating.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mhrd/!svn/ver/18/Code/moodle/lang/en/rating.php
+END
+badges.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mhrd/!svn/ver/18/Code/moodle/lang/en/badges.php
+END
+my.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/mhrd/!svn/ver/18/Code/moodle/lang/en/my.php
+END
+debug.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mhrd/!svn/ver/18/Code/moodle/lang/en/debug.php
+END
+userkey.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mhrd/!svn/ver/18/Code/moodle/lang/en/userkey.php
+END
+plagiarism.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mhrd/!svn/ver/18/Code/moodle/lang/en/plagiarism.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Service/Delicious
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Service/Delicious/Exception.php
+END
+SimplePost.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Service/Delicious/SimplePost.php
+END
+PostList.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Service/Delicious/PostList.php
+END
+Post.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Service/Delicious/Post.php
+END

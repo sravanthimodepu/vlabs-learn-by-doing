@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mhrd/!svn/ver/18/Code/moodle/admin/roles/classes
+END
+admins_potential_selector.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mhrd/!svn/ver/18/Code/moodle/admin/roles/classes/admins_potential_selector.php
+END
+existing_role_holders.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mhrd/!svn/ver/18/Code/moodle/admin/roles/classes/existing_role_holders.php
+END
+allow_switch_page.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mhrd/!svn/ver/18/Code/moodle/admin/roles/classes/allow_switch_page.php
+END
+allow_role_page.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mhrd/!svn/ver/18/Code/moodle/admin/roles/classes/allow_role_page.php
+END
+check_users_selector.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mhrd/!svn/ver/18/Code/moodle/admin/roles/classes/check_users_selector.php
+END
+capability_table_with_risks.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mhrd/!svn/ver/18/Code/moodle/admin/roles/classes/capability_table_with_risks.php
+END
+preset.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mhrd/!svn/ver/18/Code/moodle/admin/roles/classes/preset.php
+END
+override_permissions_table_advanced.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mhrd/!svn/ver/18/Code/moodle/admin/roles/classes/override_permissions_table_advanced.php
+END
+define_role_table_advanced.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mhrd/!svn/ver/18/Code/moodle/admin/roles/classes/define_role_table_advanced.php
+END
+potential_assignees_below_course.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mhrd/!svn/ver/18/Code/moodle/admin/roles/classes/potential_assignees_below_course.php
+END
+permission_allow_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mhrd/!svn/ver/18/Code/moodle/admin/roles/classes/permission_allow_form.php
+END
+allow_override_page.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mhrd/!svn/ver/18/Code/moodle/admin/roles/classes/allow_override_page.php
+END
+view_role_definition_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mhrd/!svn/ver/18/Code/moodle/admin/roles/classes/view_role_definition_table.php
+END
+permission_prohibit_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mhrd/!svn/ver/18/Code/moodle/admin/roles/classes/permission_prohibit_form.php
+END
+assign_user_selector_base.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mhrd/!svn/ver/18/Code/moodle/admin/roles/classes/assign_user_selector_base.php
+END
+allow_assign_page.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mhrd/!svn/ver/18/Code/moodle/admin/roles/classes/allow_assign_page.php
+END
+potential_assignees_course_and_above.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mhrd/!svn/ver/18/Code/moodle/admin/roles/classes/potential_assignees_course_and_above.php
+END
+capability_table_base.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mhrd/!svn/ver/18/Code/moodle/admin/roles/classes/capability_table_base.php
+END
+permissions_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mhrd/!svn/ver/18/Code/moodle/admin/roles/classes/permissions_table.php
+END
+define_role_table_basic.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mhrd/!svn/ver/18/Code/moodle/admin/roles/classes/define_role_table_basic.php
+END
+check_capability_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mhrd/!svn/ver/18/Code/moodle/admin/roles/classes/check_capability_table.php
+END
+admins_existing_selector.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mhrd/!svn/ver/18/Code/moodle/admin/roles/classes/admins_existing_selector.php
+END
+preset_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mhrd/!svn/ver/18/Code/moodle/admin/roles/classes/preset_form.php
+END

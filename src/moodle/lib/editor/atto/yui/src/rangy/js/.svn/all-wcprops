@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mhrd/!svn/ver/18/Code/moodle/lib/editor/atto/yui/src/rangy/js
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mhrd/!svn/ver/18/Code/moodle/lib/editor/atto/yui/src/rangy/js/license.txt
+END
+rangy-core.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mhrd/!svn/ver/18/Code/moodle/lib/editor/atto/yui/src/rangy/js/rangy-core.js
+END
+rangy-selectionsaverestore.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mhrd/!svn/ver/18/Code/moodle/lib/editor/atto/yui/src/rangy/js/rangy-selectionsaverestore.js
+END
+rangy-serializer.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mhrd/!svn/ver/18/Code/moodle/lib/editor/atto/yui/src/rangy/js/rangy-serializer.js
+END
+rangy-cssclassapplier.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mhrd/!svn/ver/18/Code/moodle/lib/editor/atto/yui/src/rangy/js/rangy-cssclassapplier.js
+END
+init.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mhrd/!svn/ver/18/Code/moodle/lib/editor/atto/yui/src/rangy/js/init.js
+END

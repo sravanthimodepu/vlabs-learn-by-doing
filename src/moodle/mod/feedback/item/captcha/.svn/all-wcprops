@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mhrd/!svn/ver/18/Code/moodle/mod/feedback/item/captcha
+END
+print_captcha.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mhrd/!svn/ver/18/Code/moodle/mod/feedback/item/captcha/print_captcha.php
+END
+captcha_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mhrd/!svn/ver/18/Code/moodle/mod/feedback/item/captcha/captcha_form.php
+END
+lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mhrd/!svn/ver/18/Code/moodle/mod/feedback/item/captcha/lib.php
+END

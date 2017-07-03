@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mhrd/!svn/ver/18/Code/moodle/lib/simplepie/library/SimplePie
+END
+Misc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mhrd/!svn/ver/18/Code/moodle/lib/simplepie/library/SimplePie/Misc.php
+END
+Parser.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mhrd/!svn/ver/18/Code/moodle/lib/simplepie/library/SimplePie/Parser.php
+END
+Caption.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mhrd/!svn/ver/18/Code/moodle/lib/simplepie/library/SimplePie/Caption.php
+END
+Item.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mhrd/!svn/ver/18/Code/moodle/lib/simplepie/library/SimplePie/Item.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mhrd/!svn/ver/18/Code/moodle/lib/simplepie/library/SimplePie/Exception.php
+END
+Enclosure.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mhrd/!svn/ver/18/Code/moodle/lib/simplepie/library/SimplePie/Enclosure.php
+END
+Source.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mhrd/!svn/ver/18/Code/moodle/lib/simplepie/library/SimplePie/Source.php
+END
+Author.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mhrd/!svn/ver/18/Code/moodle/lib/simplepie/library/SimplePie/Author.php
+END
+Cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mhrd/!svn/ver/18/Code/moodle/lib/simplepie/library/SimplePie/Cache.php
+END
+Locator.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mhrd/!svn/ver/18/Code/moodle/lib/simplepie/library/SimplePie/Locator.php
+END
+Restriction.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mhrd/!svn/ver/18/Code/moodle/lib/simplepie/library/SimplePie/Restriction.php
+END
+Copyright.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mhrd/!svn/ver/18/Code/moodle/lib/simplepie/library/SimplePie/Copyright.php
+END
+Registry.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mhrd/!svn/ver/18/Code/moodle/lib/simplepie/library/SimplePie/Registry.php
+END
+Credit.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mhrd/!svn/ver/18/Code/moodle/lib/simplepie/library/SimplePie/Credit.php
+END
+Category.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mhrd/!svn/ver/18/Code/moodle/lib/simplepie/library/SimplePie/Category.php
+END
+File.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mhrd/!svn/ver/18/Code/moodle/lib/simplepie/library/SimplePie/File.php
+END
+IRI.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mhrd/!svn/ver/18/Code/moodle/lib/simplepie/library/SimplePie/IRI.php
+END
+Rating.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mhrd/!svn/ver/18/Code/moodle/lib/simplepie/library/SimplePie/Rating.php
+END
+gzdecode.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mhrd/!svn/ver/18/Code/moodle/lib/simplepie/library/SimplePie/gzdecode.php
+END
+Sanitize.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mhrd/!svn/ver/18/Code/moodle/lib/simplepie/library/SimplePie/Sanitize.php
+END
+Core.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mhrd/!svn/ver/18/Code/moodle/lib/simplepie/library/SimplePie/Core.php
+END

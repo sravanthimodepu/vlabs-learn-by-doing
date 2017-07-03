@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mhrd/!svn/ver/18/Code/moodle/lib/minify/lib/Minify/Cache
+END
+XCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mhrd/!svn/ver/18/Code/moodle/lib/minify/lib/Minify/Cache/XCache.php
+END
+File.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mhrd/!svn/ver/18/Code/moodle/lib/minify/lib/Minify/Cache/File.php
+END
+Memcache.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mhrd/!svn/ver/18/Code/moodle/lib/minify/lib/Minify/Cache/Memcache.php
+END
+APC.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mhrd/!svn/ver/18/Code/moodle/lib/minify/lib/Minify/Cache/APC.php
+END
+ZendPlatform.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mhrd/!svn/ver/18/Code/moodle/lib/minify/lib/Minify/Cache/ZendPlatform.php
+END

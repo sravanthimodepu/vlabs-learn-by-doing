@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/mhrd/!svn/ver/18/Code/moodle/mod/choice/db
+END
+install.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mhrd/!svn/ver/18/Code/moodle/mod/choice/db/install.xml
+END
+access.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mhrd/!svn/ver/18/Code/moodle/mod/choice/db/access.php
+END
+log.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mhrd/!svn/ver/18/Code/moodle/mod/choice/db/log.php
+END
+upgrade.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mhrd/!svn/ver/18/Code/moodle/mod/choice/db/upgrade.php
+END

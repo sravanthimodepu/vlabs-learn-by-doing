@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mhrd/!svn/ver/18/Code/moodle/lib/tcpdf/include/barcodes
+END
+qrcode.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mhrd/!svn/ver/18/Code/moodle/lib/tcpdf/include/barcodes/qrcode.php
+END
+datamatrix.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mhrd/!svn/ver/18/Code/moodle/lib/tcpdf/include/barcodes/datamatrix.php
+END
+pdf417.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mhrd/!svn/ver/18/Code/moodle/lib/tcpdf/include/barcodes/pdf417.php
+END
