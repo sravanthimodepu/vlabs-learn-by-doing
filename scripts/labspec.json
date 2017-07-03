@@ -43,9 +43,9 @@
      },
     "build_requirements": {
       "platform": {
-        "os": "ubuntu",
-        "osVersion": "12",
-        "arch": "x64",
+        "os": "centos",
+        "osVersion": "6",
+        "arch": "x86_x64",
         "service_pack": "",
         "installer": [
         ],
@@ -65,9 +65,9 @@
     },
     "runtime_requirements": {
       "platform": {
-        "os": "ubuntu",
-        "osVersion": "12",
-        "arch": "x64",
+        "os": "centos",
+        "osVersion": "6",
+        "arch": "x86_x64",
         "servicepack": "",
         "hosting": "dedicated",
         "memory": {

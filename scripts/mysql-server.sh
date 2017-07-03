@@ -25,7 +25,7 @@ if [ ! -f $DB_PASS_FILE ]; then
   # generate a random password for the database and store it in the $DB_PASS_FILE
   # file
 #  DBPASS=$(date +%s | sha256sum | head -c 32)
-  DBPASS="Virtual-Labs123!@#"
+  DBPASS="root"
   echo $DBPASS > $DB_PASS_FILE
 fi
 
