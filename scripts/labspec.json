@@ -43,7 +43,7 @@
      },
     "build_requirements": {
       "platform": {
-        "os": "centos",
+        "os": "CentOS",
         "osVersion": "6",
         "arch": "x86_x64",
         "service_pack": "",
@@ -65,7 +65,7 @@
     },
     "runtime_requirements": {
       "platform": {
-        "os": "centos",
+        "os": "CentOS",
         "osVersion": "6",
         "arch": "x86_x64",
         "servicepack": "",
