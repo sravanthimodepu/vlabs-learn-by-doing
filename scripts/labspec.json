@@ -45,7 +45,7 @@
       "platform": {
         "os": "CentOS",
         "osVersion": "6",
-        "arch": "x86_x64",
+        "arch": "x86_64",
         "service_pack": "",
         "installer": [
         ],
@@ -67,7 +67,7 @@
       "platform": {
         "os": "CentOS",
         "osVersion": "6",
-        "arch": "x86_x64",
+        "arch": "x86_64",
         "servicepack": "",
         "hosting": "dedicated",
         "memory": {
