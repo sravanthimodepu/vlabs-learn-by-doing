@@ -1,8 +1,8 @@
 {
   "lab": {
     "description": {
-      "name": "Lab data service",
-      "id": "lab-data-service",
+      "name": "Learn by Doing",
+      "id": "learn-by-doing",
       "status": "working code",
       "discipline": [],
       "type": "",
@@ -10,22 +10,22 @@
       "integration_level": 6,
       "developer": [
         {
-          "name": "Sripathi Kammari",
+          "name": "Raghupathi Kammari",
           "title": "",
-          "role": "Project Engineer",
+          "role": "Junior Project Engineer",
           "organization": "VLEAD",
           "institute": "IIIT Hyderabad",
           "web": "",
           "department": "Software Engg Research Lab (SERL)",
           "contact": {
-            "email": "sripathi@vlabs.ac.in",
+            "email": "raghupathi@vlabs.ac.in",
             "alternate_email": "",
             "mobile_number": "",
             "office_number": ""
           }
         },
 	{
-          "name": "Sripathi",
+          "name": "Raghupathi",
           "title": "",
           "role": "Software Engineer",
           "organization": "VLEAD",
@@ -33,23 +33,8 @@
           "web": "",
           "department": "Software Engg Research Lab (SERL)",
           "contact": {
-            "email": "sripathi@vlabs.ac.in",
+            "email": "raghupathi@vlabs.ac.in",
             "alternate_email": "",
-            "mobile_number": "",
-            "office_number": ""
-          }
-        },
-        {
-          "name": "Madhavi Puliraju",
-          "title": "",
-          "role": "Software Engineer",
-          "organization": "VLEAD",
-          "institute": "IIIT Hyderabad",
-          "web": "",
-          "department": "Software Engg Research Lab (SERL)",
-          "contact": {
-            "email": "madhavi@vlabs.ac.in",
-	    "alternate_email": "",
             "mobile_number": "",
             "office_number": ""
           }
@@ -71,10 +56,8 @@
             "cd ../;make build"
           ],
           "post_build": [
-            "cp -R ../build/code/* /var/www/",
-            "chmod -R 755 /var/www",
-            "mkdir /var/www/logs",
-            "chmod -R 777 /var/www/logs"
+            "cp -R ../build/docs/moodle /var/www/",
+            "chmod -R 755 /var/www"
           ],
           "status": []
         }
@@ -95,10 +78,8 @@
           "min_required": "10gb"
         },
         "installer": [
-          "bash /var/www/deployment/setup.sh",
-          "python /var/www/deployment/setup.py install",
-          "bash /var/www/deployment/configure.sh",
-          "PYTHONPATH=/var/www python /var/www/deployment/db_setup.py"
+          "bash /root/vlabs-learn-by-doing/scripts/mysql-server.sh",
+          "bash /root/vlabs-learn-by-doing/scripts/install.sh"
         ],
         "lab_actions": {
           "init"    : [],
