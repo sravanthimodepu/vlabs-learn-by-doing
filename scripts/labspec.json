@@ -78,8 +78,8 @@
           "min_required": "20gb"
         },
         "installer": [
-          "bash /root/vlabs-learn-by-doing/scripts/mysql-server.sh",
-          "bash /root/vlabs-learn-by-doing/scripts/install.sh"
+          "bash mysql-server.sh",
+          "bash install.sh"
         ],
         "lab_actions": {
           "init"    : [],
