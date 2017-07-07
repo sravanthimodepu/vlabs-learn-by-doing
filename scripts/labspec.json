@@ -78,8 +78,8 @@
           "min_required": "20gb"
         },
         "installer": [
-          "bash mysql-server.sh",
-          "bash install.sh"
+          "bash mysql-php.sh",
+          "bash moodle-mediawiki.sh"
         ],
         "lab_actions": {
           "init"    : [],

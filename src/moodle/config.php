@@ -10,7 +10,7 @@ $CFG->dbhost    = 'localhost';
 ##$CFG->dbname    = 'jmoodle';
 $CFG->dbname    = 'moodle';
 $CFG->dbuser    = 'root';
-$CFG->dbpass    = 'root';
+$CFG->dbpass    = 'Virtual-Labs123!@#';
 $CFG->prefix    = 'mdl_';
 $CFG->dboptions = array (
   'dbpersist' => 0,
@@ -18,7 +18,7 @@ $CFG->dboptions = array (
   'dbsocket' => '',
 );
 
-$CFG->wwwroot   = 'http://10.4.15.134/moodle';
+$CFG->wwwroot   = 'http://lbd-server.base4.vlabs.ac.in/moodle';
 $CFG->dataroot  = '/root/backup/jmoodledata';
 //$CFG->dataroot  = '/var/www/jmoodledata';
 $CFG->admin     = 'admin';
