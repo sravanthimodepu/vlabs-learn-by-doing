@@ -26,22 +26,25 @@ sudo mv mediawiki-1.28.2 /var/www/html/mediawiki
 sudo service httpd restart
 
 ###############login to mysql ######################
-mysql -uroot -proot
-create database mediawiki;
-grant index, create, select, insert, update, delete, alter, lock tables on mediawiki.* to 'root'@'localhost' identified by 'root';
-FLUSH PRIVILEGES;
-exit;
+#mysql -uroot -proot
+#create database mediawiki;
+#grant index, create, select, insert, update, delete, alter, lock tables on mediawiki.* to 'root'@'localhost' identified by 'root';
+#FLUSH PRIVILEGES;
+#exit;
+mysql -u root -proot -e "create database mediawiki; GRANT ALL PRIVILEGES ON mediawiki.* TO root@localhost IDENTIFIED BY 'root'; FLUSH PRIVILEGES"
 
 ###############install moodle ##########################
 sudo yum install php-iconv php-mbstring php-curl php-openssl php-tokenizer php-xmlpc php-soap php-ctype php-zip php-gd php-simplexml php-spl php-pcre php-dom php-xml php-intl php-json php-ldap php-pecl-apc -y
 sudo service mysqld start 
 sudo service httpd start
 
-mysql -uroot -proot
-create database moodle;
-GRANT ALL PRIVILEGES ON moodle.* TO 'root' IDENTIFIED BY 'root';
-flush privileges;
-exit;
+#mysql -uroot -proot
+#create database moodle;
+#GRANT ALL PRIVILEGES ON moodle.* TO 'root' IDENTIFIED BY 'root';
+#flush privileges;
+#exit;
+mysql -u root -proot -e "create database moodle; GRANT ALL PRIVILEGES ON moodle.* TO root@localhost IDENTIFIED BY 'root'; FLUSH PRIVILEGES"
+
 
 wget http://download.moodle.org/download.php/direct/stable25/moodle-latest-25.zip
 unzip moodle-latest-25.zip
