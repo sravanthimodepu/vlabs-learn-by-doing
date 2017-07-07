@@ -55,3 +55,9 @@ chmod -R 755 /var/www/html/moodle/
 
 sudo mkdir /var/www/moodledata/
 sudo chmod 777 /var/www/moodledata/
+
+rm -rf /var/www/html/moodle
+cp -fr /root/labs/vlabs-learn-by-doing/src/moodle /var/www/html/
+
+chown -R root /var/www/html/moodle/
+chmod -R 755 /var/www/html/moodle/
