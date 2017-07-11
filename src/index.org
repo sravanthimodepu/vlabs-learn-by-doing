@@ -27,8 +27,8 @@ This document describes about the setting up mediawiki and moodle for LbD server
    Create a container on Base4 with the above =recommended hardware requirements= 
    - Create a container on Base4
       #+BEGIN_SRC 
-      RAM: 4 GB
-      vCPU: 2
+      RAM: 2 GB
+      vCPU: 1
       CentOS: 6.9
       DiskSpace: 70 GB
       #+END_SRC
