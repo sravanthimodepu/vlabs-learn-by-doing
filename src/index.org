@@ -10,7 +10,7 @@
 This document describes about the setting up mediawiki and moodle for LbD server on CentOS-6.9.
 
 
-** Recommended Hardware requirements for moodle
+** Recommended Hardware requirements for moodle and mediawiki
    - Disk space :: 160MB free (min) plus as much as you need to store
                    your materials. 5GB is probably a realistic
                    minimum.
