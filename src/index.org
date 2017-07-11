@@ -1,0 +1,70 @@
+#+TITLE: Setting up Mediawiki and Moodle for LBD Server
+#+AUTHOR: VLEAD Systems
+#+DATE: [2017-07-05 Wed]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+This document describes about the setting up mediawiki and moodle for LbD server on CentOS-6.9.
+
+
+** Recommended Hardware requirements for moodle
+   - Disk space :: 160MB free (min) plus as much as you need to store
+                   your materials. 5GB is probably a realistic
+                   minimum.
+   - Memory :: 256MB (min), 1GB or more is strongly recommended. The
+               general rule of thumb is that Moodle can support 10 to
+               20 concurrent users for every 1GB of RAM, but this will
+               vary depending on your specific hardware and software
+               combination and the type of use. 'Concurrent' really
+               means web server processes in memory at the same time
+               (i.e. users interacting with the system within a window
+               of a few seconds). It does NOT mean people 'logged in'.
+                https://docs.moodle.org/23/en/Installing_Moodle#Hardware
+** Create Base4 container 
+   Create a container on Base4 with the above =recommended hardware requirements= 
+   - Create a container on Base4
+      #+BEGIN_SRC 
+      RAM: 4 GB
+      vCPU: 2
+      CentOS: 6.9
+      DiskSpace: 70 GB
+      #+END_SRC
+
+
+* Install required packages
+ - Install *php-5.6*
+ #+BEGIN_EXAMPLE
+ rpm -Uvh https://dl.fedoraproject.org/pub/epel/epel-release-latest-6.noarch.rpm
+ rpm -Uvh https://mirror.webtatic.com/yum/el6/latest.rpm
+ sudo yum install php56w php56w-opcache -y
+ sudo yum install php56w-fpm php56w-opcache -y 
+ sudo yum install php56w-mysql -y 
+ #+END_EXAMPLE
+ - Install *mysql-server-5.5.31*
+ #+BEGIN_EXAMPLE
+ sudo yum install wget -y
+ wget https://dev.mysql.com/get/mysql57-community-release-el6-11.noarch.rpm
+ sudo yum localinstall mysql57-community-release-el6-11.noarch.rpm -y
+ sudo yum install -y mysql-community-server
+ sudo service mysqld start
+ #+END_EXAMPLE
+ - Default  or temporary password for root user would be in =/var/log/mysql.log=
+ #+BEGIN_EXAMPLE
+ sudo grep 'temporary password' /var/log/mysqld.log
+ #+END_EXAMPLE
+
+* Install Mediawiki
+ Follow the [[https://gitlab.com/vlabs-external-projects/lbd-review-meeting/blob/master/mediawiki-installation.org][link]] to install mediawiki.
+
+* Install Moodle
+ Follow the [[https://gitlab.com/vlabs-external-projects/lbd-review-meeting/blob/master/moodle-on-aws.org][link]] to install moodle.
+
+* References
+1. [[https://download.moodle.org/]]
+2. [[https://gitlab.com/vlabs-external-projects/lbd-review-meeting/blob/master/lbd-on-aws.org]]
+3. [[https://www.mediawiki.org/wiki/Download]]
+4. [[https://webtatic.com/packages/php56/]]
+5. [[https://dev.mysql.com/doc/mysql-repo-excerpt/5.6/en/linux-installation-yum-repo.html]]
