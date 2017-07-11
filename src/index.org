@@ -1,4 +1,4 @@
-#+TITLE: Setting up Mediawiki and Moodle for LBD Server
+#+TITLE: Setting up Mediawiki and Moodle for LbD Server
 #+AUTHOR: VLEAD Systems
 #+DATE: [2017-07-05 Wed]
 #+SETUPFILE: ./org-templates/level-0.org
