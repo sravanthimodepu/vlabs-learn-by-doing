@@ -43,7 +43,7 @@ This document describes about the setting up mediawiki and moodle for LbD server
  sudo yum install php56w-fpm php56w-opcache -y 
  sudo yum install php56w-mysql -y 
  #+END_EXAMPLE
- - Install *mysql-server-5.5.31*
+ - Install *mysql-server-5.7.18*
  #+BEGIN_EXAMPLE
  sudo yum install wget -y
  wget https://dev.mysql.com/get/mysql57-community-release-el6-11.noarch.rpm
