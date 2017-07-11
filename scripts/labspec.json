@@ -56,7 +56,7 @@
             "cd ../;make build"
           ],
           "post_build": [
-            "cp -r ../build/docs/moodle /var/www/html/",
+            "cp -r ../src/moodle /var/www/html/",
             "chmod -R 755 /var/www/html/*"
           ],
           "status": []
