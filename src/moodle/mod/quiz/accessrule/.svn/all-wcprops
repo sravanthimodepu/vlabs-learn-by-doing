@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mhrd/!svn/ver/18/Code/moodle/mod/quiz/accessrule
+END
+upgrade.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mhrd/!svn/ver/18/Code/moodle/mod/quiz/accessrule/upgrade.txt
+END
+accessrulebase.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mhrd/!svn/ver/18/Code/moodle/mod/quiz/accessrule/accessrulebase.php
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/mhrd/!svn/ver/18/Code/moodle/admin/roles
+END
+define.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mhrd/!svn/ver/18/Code/moodle/admin/roles/define.php
+END
+module.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mhrd/!svn/ver/18/Code/moodle/admin/roles/module.js
+END
+role_schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mhrd/!svn/ver/18/Code/moodle/admin/roles/role_schema.xml
+END
+admins.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mhrd/!svn/ver/18/Code/moodle/admin/roles/admins.php
+END
+permissions.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mhrd/!svn/ver/18/Code/moodle/admin/roles/permissions.php
+END
+check.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mhrd/!svn/ver/18/Code/moodle/admin/roles/check.php
+END
+allow.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mhrd/!svn/ver/18/Code/moodle/admin/roles/allow.php
+END
+override.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mhrd/!svn/ver/18/Code/moodle/admin/roles/override.php
+END
+managetabs.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mhrd/!svn/ver/18/Code/moodle/admin/roles/managetabs.php
+END
+assign.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mhrd/!svn/ver/18/Code/moodle/admin/roles/assign.php
+END
+lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mhrd/!svn/ver/18/Code/moodle/admin/roles/lib.php
+END
+usersroles.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mhrd/!svn/ver/18/Code/moodle/admin/roles/usersroles.php
+END
+manage.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mhrd/!svn/ver/18/Code/moodle/admin/roles/manage.php
+END

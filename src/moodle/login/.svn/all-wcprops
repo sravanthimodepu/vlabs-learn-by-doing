@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/mhrd/!svn/ver/18/Code/moodle/login
+END
+change_password_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mhrd/!svn/ver/18/Code/moodle/login/change_password_form.php
+END
+restored_password_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mhrd/!svn/ver/18/Code/moodle/login/restored_password_form.php
+END
+confirm.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mhrd/!svn/ver/18/Code/moodle/login/confirm.php
+END
+set_password_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mhrd/!svn/ver/18/Code/moodle/login/set_password_form.php
+END
+signup.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mhrd/!svn/ver/18/Code/moodle/login/signup.php
+END
+forgot_password_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mhrd/!svn/ver/18/Code/moodle/login/forgot_password_form.php
+END
+lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/mhrd/!svn/ver/18/Code/moodle/login/lib.php
+END
+unlock_account.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mhrd/!svn/ver/18/Code/moodle/login/unlock_account.php
+END
+index_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mhrd/!svn/ver/18/Code/moodle/login/index_form.html
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/mhrd/!svn/ver/18/Code/moodle/login/index.php
+END
+change_password.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mhrd/!svn/ver/18/Code/moodle/login/change_password.php
+END
+logout.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mhrd/!svn/ver/18/Code/moodle/login/logout.php
+END
+token.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/mhrd/!svn/ver/18/Code/moodle/login/token.php
+END
+forgot_password.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mhrd/!svn/ver/18/Code/moodle/login/forgot_password.php
+END
+signup_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mhrd/!svn/ver/18/Code/moodle/login/signup_form.php
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/mhrd/!svn/ver/18/Code/moodle/completion
+END
+data_object.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mhrd/!svn/ver/18/Code/moodle/completion/data_object.php
+END
+completion_aggregation.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mhrd/!svn/ver/18/Code/moodle/completion/completion_aggregation.php
+END
+cron.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mhrd/!svn/ver/18/Code/moodle/completion/cron.php
+END
+completion_completion.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mhrd/!svn/ver/18/Code/moodle/completion/completion_completion.php
+END
+completion_criteria_completion.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mhrd/!svn/ver/18/Code/moodle/completion/completion_criteria_completion.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mhrd/!svn/ver/18/Code/moodle/user/tests/behat
+END
+add_blocks.feature
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mhrd/!svn/ver/18/Code/moodle/user/tests/behat/add_blocks.feature
+END
+edituserpassword.feature
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mhrd/!svn/ver/18/Code/moodle/user/tests/behat/edituserpassword.feature
+END
+reset_page.feature
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mhrd/!svn/ver/18/Code/moodle/user/tests/behat/reset_page.feature
+END
+delete_users.feature
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mhrd/!svn/ver/18/Code/moodle/user/tests/behat/delete_users.feature
+END

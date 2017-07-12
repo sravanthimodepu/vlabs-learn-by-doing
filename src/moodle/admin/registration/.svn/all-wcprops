@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mhrd/!svn/ver/18/Code/moodle/admin/registration
+END
+renewregistration.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mhrd/!svn/ver/18/Code/moodle/admin/registration/renewregistration.php
+END
+register.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mhrd/!svn/ver/18/Code/moodle/admin/registration/register.php
+END
+forms.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mhrd/!svn/ver/18/Code/moodle/admin/registration/forms.php
+END
+lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mhrd/!svn/ver/18/Code/moodle/admin/registration/lib.php
+END
+renderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mhrd/!svn/ver/18/Code/moodle/admin/registration/renderer.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mhrd/!svn/ver/18/Code/moodle/admin/registration/index.php
+END
+confirmregistration.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mhrd/!svn/ver/18/Code/moodle/admin/registration/confirmregistration.php
+END

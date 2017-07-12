@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mhrd/!svn/ver/18/Code/moodle/message/output/airnotifier
+END
+externallib.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mhrd/!svn/ver/18/Code/moodle/message/output/airnotifier/externallib.php
+END
+rest.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mhrd/!svn/ver/18/Code/moodle/message/output/airnotifier/rest.php
+END
+message_output_airnotifier.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mhrd/!svn/ver/18/Code/moodle/message/output/airnotifier/message_output_airnotifier.php
+END
+settings.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mhrd/!svn/ver/18/Code/moodle/message/output/airnotifier/settings.php
+END
+style.css
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mhrd/!svn/ver/18/Code/moodle/message/output/airnotifier/style.css
+END
+requestaccesskey.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mhrd/!svn/ver/18/Code/moodle/message/output/airnotifier/requestaccesskey.php
+END
+version.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mhrd/!svn/ver/18/Code/moodle/message/output/airnotifier/version.php
+END

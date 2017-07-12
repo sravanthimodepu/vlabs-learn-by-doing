@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mhrd/!svn/ver/18/Code/moodle/question/type/calculated/tests
+END
+upgradelibnewqe_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mhrd/!svn/ver/18/Code/moodle/question/type/calculated/tests/upgradelibnewqe_test.php
+END
+formula_validation_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mhrd/!svn/ver/18/Code/moodle/question/type/calculated/tests/formula_validation_test.php
+END
+walkthrough_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mhrd/!svn/ver/18/Code/moodle/question/type/calculated/tests/walkthrough_test.php
+END
+helper.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mhrd/!svn/ver/18/Code/moodle/question/type/calculated/tests/helper.php
+END
+variablesubstituter_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mhrd/!svn/ver/18/Code/moodle/question/type/calculated/tests/variablesubstituter_test.php
+END
+question_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mhrd/!svn/ver/18/Code/moodle/question/type/calculated/tests/question_test.php
+END
+questiontype_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mhrd/!svn/ver/18/Code/moodle/question/type/calculated/tests/questiontype_test.php
+END

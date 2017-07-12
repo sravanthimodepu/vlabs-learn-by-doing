@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/mhrd/!svn/ver/18/Code/moodle/auth/cas
+END
+README-CAS
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mhrd/!svn/ver/18/Code/moodle/auth/cas/README-CAS
+END
+thirdpartylibs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mhrd/!svn/ver/18/Code/moodle/auth/cas/thirdpartylibs.xml
+END
+auth.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mhrd/!svn/ver/18/Code/moodle/auth/cas/auth.php
+END
+config.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/mhrd/!svn/ver/18/Code/moodle/auth/cas/config.html
+END
+version.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/mhrd/!svn/ver/18/Code/moodle/auth/cas/version.php
+END
+cas_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mhrd/!svn/ver/18/Code/moodle/auth/cas/cas_form.html
+END
+languages.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mhrd/!svn/ver/18/Code/moodle/auth/cas/languages.php
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mhrd/!svn/ver/18/Code/moodle/blocks/course_summary/tests/behat
+END
+block_course_summary_course.feature
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mhrd/!svn/ver/18/Code/moodle/blocks/course_summary/tests/behat/block_course_summary_course.feature
+END
+block_course_summary_frontpage.feature
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/mhrd/!svn/ver/18/Code/moodle/blocks/course_summary/tests/behat/block_course_summary_frontpage.feature
+END

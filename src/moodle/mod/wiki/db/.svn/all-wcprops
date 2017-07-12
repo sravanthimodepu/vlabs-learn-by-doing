@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/mhrd/!svn/ver/18/Code/moodle/mod/wiki/db
+END
+install.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mhrd/!svn/ver/18/Code/moodle/mod/wiki/db/install.xml
+END
+access.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mhrd/!svn/ver/18/Code/moodle/mod/wiki/db/access.php
+END
+install.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mhrd/!svn/ver/18/Code/moodle/mod/wiki/db/install.php
+END
+upgrade.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mhrd/!svn/ver/18/Code/moodle/mod/wiki/db/upgrade.php
+END

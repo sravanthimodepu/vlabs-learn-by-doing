@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mhrd/!svn/ver/18/Code/moodle/backup/util/xml/parser/processors
+END
+null_parser_processor.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mhrd/!svn/ver/18/Code/moodle/backup/util/xml/parser/processors/null_parser_processor.class.php
+END
+findpaths_parser_processor.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mhrd/!svn/ver/18/Code/moodle/backup/util/xml/parser/processors/findpaths_parser_processor.class.php
+END
+grouped_parser_processor.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mhrd/!svn/ver/18/Code/moodle/backup/util/xml/parser/processors/grouped_parser_processor.class.php
+END
+simplified_parser_processor.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mhrd/!svn/ver/18/Code/moodle/backup/util/xml/parser/processors/simplified_parser_processor.class.php
+END
+selective_exact_parser_processor.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/mhrd/!svn/ver/18/Code/moodle/backup/util/xml/parser/processors/selective_exact_parser_processor.class.php
+END
+selective_like_parser_processor.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/mhrd/!svn/ver/18/Code/moodle/backup/util/xml/parser/processors/selective_like_parser_processor.class.php
+END
+progressive_parser_processor.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/mhrd/!svn/ver/18/Code/moodle/backup/util/xml/parser/processors/progressive_parser_processor.class.php
+END
+simple_parser_processor.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mhrd/!svn/ver/18/Code/moodle/backup/util/xml/parser/processors/simple_parser_processor.class.php
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mhrd/!svn/ver/18/Code/moodle/mod/book/backup/moodle2
+END
+restore_book_activity_task.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mhrd/!svn/ver/18/Code/moodle/mod/book/backup/moodle2/restore_book_activity_task.class.php
+END
+backup_book_activity_task.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mhrd/!svn/ver/18/Code/moodle/mod/book/backup/moodle2/backup_book_activity_task.class.php
+END
+restore_book_stepslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mhrd/!svn/ver/18/Code/moodle/mod/book/backup/moodle2/restore_book_stepslib.php
+END
+backup_book_stepslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mhrd/!svn/ver/18/Code/moodle/mod/book/backup/moodle2/backup_book_stepslib.php
+END
+backup_book_settingslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mhrd/!svn/ver/18/Code/moodle/mod/book/backup/moodle2/backup_book_settingslib.php
+END

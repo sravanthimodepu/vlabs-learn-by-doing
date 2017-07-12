@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/mhrd/!svn/ver/18/Code/moodle/course/tests
+END
+management_helper_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mhrd/!svn/ver/18/Code/moodle/course/tests/management_helper_test.php
+END
+courselib_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mhrd/!svn/ver/18/Code/moodle/course/tests/courselib_test.php
+END
+courserequest_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mhrd/!svn/ver/18/Code/moodle/course/tests/courserequest_test.php
+END
+externallib_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mhrd/!svn/ver/18/Code/moodle/course/tests/externallib_test.php
+END

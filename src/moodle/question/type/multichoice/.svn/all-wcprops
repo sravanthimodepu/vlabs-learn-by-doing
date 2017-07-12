@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mhrd/!svn/ver/18/Code/moodle/question/type/multichoice
+END
+questiontype.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mhrd/!svn/ver/18/Code/moodle/question/type/multichoice/questiontype.php
+END
+edit_multichoice_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mhrd/!svn/ver/18/Code/moodle/question/type/multichoice/edit_multichoice_form.php
+END
+styles.css
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mhrd/!svn/ver/18/Code/moodle/question/type/multichoice/styles.css
+END
+version.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mhrd/!svn/ver/18/Code/moodle/question/type/multichoice/version.php
+END
+lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mhrd/!svn/ver/18/Code/moodle/question/type/multichoice/lib.php
+END
+renderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mhrd/!svn/ver/18/Code/moodle/question/type/multichoice/renderer.php
+END
+question.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mhrd/!svn/ver/18/Code/moodle/question/type/multichoice/question.php
+END

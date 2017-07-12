@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/mhrd/!svn/ver/18/Code/moodle/lib/ajax
+END
+ajaxlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/mhrd/!svn/ver/18/Code/moodle/lib/ajax/ajaxlib.php
+END
+getsiteadminbranch.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mhrd/!svn/ver/18/Code/moodle/lib/ajax/getsiteadminbranch.php
+END
+blocks.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mhrd/!svn/ver/18/Code/moodle/lib/ajax/blocks.php
+END
+getnavbranch.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mhrd/!svn/ver/18/Code/moodle/lib/ajax/getnavbranch.php
+END
+setuserpref.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mhrd/!svn/ver/18/Code/moodle/lib/ajax/setuserpref.php
+END

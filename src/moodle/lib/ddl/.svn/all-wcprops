@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/mhrd/!svn/ver/18/Code/moodle/lib/ddl
+END
+mysql_sql_generator.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mhrd/!svn/ver/18/Code/moodle/lib/ddl/mysql_sql_generator.php
+END
+oracle_sql_generator.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mhrd/!svn/ver/18/Code/moodle/lib/ddl/oracle_sql_generator.php
+END
+postgres_sql_generator.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mhrd/!svn/ver/18/Code/moodle/lib/ddl/postgres_sql_generator.php
+END
+database_manager.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mhrd/!svn/ver/18/Code/moodle/lib/ddl/database_manager.php
+END
+mssql_sql_generator.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mhrd/!svn/ver/18/Code/moodle/lib/ddl/mssql_sql_generator.php
+END
+sql_generator.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mhrd/!svn/ver/18/Code/moodle/lib/ddl/sql_generator.php
+END
+sqlite_sql_generator.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mhrd/!svn/ver/18/Code/moodle/lib/ddl/sqlite_sql_generator.php
+END

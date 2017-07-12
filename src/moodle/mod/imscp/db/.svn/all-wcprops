@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/mhrd/!svn/ver/18/Code/moodle/mod/imscp/db
+END
+install.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mhrd/!svn/ver/18/Code/moodle/mod/imscp/db/install.xml
+END
+access.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mhrd/!svn/ver/18/Code/moodle/mod/imscp/db/access.php
+END
+log.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/mhrd/!svn/ver/18/Code/moodle/mod/imscp/db/log.php
+END
+install.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mhrd/!svn/ver/18/Code/moodle/mod/imscp/db/install.php
+END
+upgrade.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mhrd/!svn/ver/18/Code/moodle/mod/imscp/db/upgrade.php
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/mhrd/!svn/ver/18/Code/moodle/admin/user
+END
+user_bulk_enrol.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mhrd/!svn/ver/18/Code/moodle/admin/user/user_bulk_enrol.php
+END
+user_bulk.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mhrd/!svn/ver/18/Code/moodle/admin/user/user_bulk.php
+END
+user_bulk_delete.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mhrd/!svn/ver/18/Code/moodle/admin/user/user_bulk_delete.php
+END
+user_bulk_message.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mhrd/!svn/ver/18/Code/moodle/admin/user/user_bulk_message.php
+END
+user_bulk_display.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mhrd/!svn/ver/18/Code/moodle/admin/user/user_bulk_display.php
+END
+user_bulk_forms.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mhrd/!svn/ver/18/Code/moodle/admin/user/user_bulk_forms.php
+END
+user_bulk_cohortadd.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mhrd/!svn/ver/18/Code/moodle/admin/user/user_bulk_cohortadd.php
+END
+user_bulk_download.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mhrd/!svn/ver/18/Code/moodle/admin/user/user_bulk_download.php
+END
+user_bulk_forcepasswordchange.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mhrd/!svn/ver/18/Code/moodle/admin/user/user_bulk_forcepasswordchange.php
+END
+user_bulk_cohortadd_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mhrd/!svn/ver/18/Code/moodle/admin/user/user_bulk_cohortadd_form.php
+END
+user_message_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mhrd/!svn/ver/18/Code/moodle/admin/user/user_message_form.php
+END
+lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mhrd/!svn/ver/18/Code/moodle/admin/user/lib.php
+END
+user_bulk_confirm.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mhrd/!svn/ver/18/Code/moodle/admin/user/user_bulk_confirm.php
+END

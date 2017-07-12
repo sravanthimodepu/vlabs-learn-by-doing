@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/mhrd/!svn/ver/18/Code/moodle/auth/joomdle
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mhrd/!svn/ver/18/Code/moodle/auth/joomdle/LICENSE.txt
+END
+certificate_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mhrd/!svn/ver/18/Code/moodle/auth/joomdle/certificate_view.php
+END
+connection_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mhrd/!svn/ver/18/Code/moodle/auth/joomdle/connection_test.php
+END
+land.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mhrd/!svn/ver/18/Code/moodle/auth/joomdle/land.php
+END
+connection_test_joomla.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mhrd/!svn/ver/18/Code/moodle/auth/joomdle/connection_test_joomla.php
+END
+auth.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mhrd/!svn/ver/18/Code/moodle/auth/joomdle/auth.php
+END
+joomdle_login.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mhrd/!svn/ver/18/Code/moodle/auth/joomdle/joomdle_login.php
+END
+config.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mhrd/!svn/ver/18/Code/moodle/auth/joomdle/config.html
+END
+pluginfilelib.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mhrd/!svn/ver/18/Code/moodle/auth/joomdle/pluginfilelib.php
+END
+version.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mhrd/!svn/ver/18/Code/moodle/auth/joomdle/version.php
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mhrd/!svn/ver/18/Code/moodle/auth/joomdle/README.txt
+END
+land_logout.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mhrd/!svn/ver/18/Code/moodle/auth/joomdle/land_logout.php
+END
+pluginfile_joomdle.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mhrd/!svn/ver/18/Code/moodle/auth/joomdle/pluginfile_joomdle.php
+END

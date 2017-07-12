@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/mhrd/!svn/ver/18/Code/moodle/grade/grading
+END
+pick_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mhrd/!svn/ver/18/Code/moodle/grade/grading/pick_form.php
+END
+lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mhrd/!svn/ver/18/Code/moodle/grade/grading/lib.php
+END
+pick.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mhrd/!svn/ver/18/Code/moodle/grade/grading/pick.php
+END
+renderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mhrd/!svn/ver/18/Code/moodle/grade/grading/renderer.php
+END
+manage.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mhrd/!svn/ver/18/Code/moodle/grade/grading/manage.php
+END

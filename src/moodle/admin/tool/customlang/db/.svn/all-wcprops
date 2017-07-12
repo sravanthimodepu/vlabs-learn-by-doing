@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mhrd/!svn/ver/18/Code/moodle/admin/tool/customlang/db
+END
+install.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mhrd/!svn/ver/18/Code/moodle/admin/tool/customlang/db/install.xml
+END
+access.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mhrd/!svn/ver/18/Code/moodle/admin/tool/customlang/db/access.php
+END
+install.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mhrd/!svn/ver/18/Code/moodle/admin/tool/customlang/db/install.php
+END
+upgrade.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mhrd/!svn/ver/18/Code/moodle/admin/tool/customlang/db/upgrade.php
+END

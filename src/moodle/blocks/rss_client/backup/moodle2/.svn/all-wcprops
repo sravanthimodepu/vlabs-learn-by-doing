@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mhrd/!svn/ver/18/Code/moodle/blocks/rss_client/backup/moodle2
+END
+backup_rss_client_block_task.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mhrd/!svn/ver/18/Code/moodle/blocks/rss_client/backup/moodle2/backup_rss_client_block_task.class.php
+END
+restore_rss_client_stepslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mhrd/!svn/ver/18/Code/moodle/blocks/rss_client/backup/moodle2/restore_rss_client_stepslib.php
+END
+backup_rss_client_stepslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mhrd/!svn/ver/18/Code/moodle/blocks/rss_client/backup/moodle2/backup_rss_client_stepslib.php
+END
+restore_rss_client_block_task.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/mhrd/!svn/ver/18/Code/moodle/blocks/rss_client/backup/moodle2/restore_rss_client_block_task.class.php
+END

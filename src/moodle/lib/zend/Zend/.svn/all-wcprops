@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend
+END
+Date.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Date.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Exception.php
+END
+Uri.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Uri.php
+END
+Gdata.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Gdata.php
+END
+Auth.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Auth.php
+END
+Version.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Version.php
+END
+Loader.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Loader.php
+END
+Mime.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Mime.php
+END
+Registry.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Registry.php
+END

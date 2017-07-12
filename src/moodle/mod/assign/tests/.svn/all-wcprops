@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mhrd/!svn/ver/18/Code/moodle/mod/assign/tests
+END
+base_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mhrd/!svn/ver/18/Code/moodle/mod/assign/tests/base_test.php
+END
+upgradelib_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mhrd/!svn/ver/18/Code/moodle/mod/assign/tests/upgradelib_test.php
+END
+locallib_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mhrd/!svn/ver/18/Code/moodle/mod/assign/tests/locallib_test.php
+END
+events_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mhrd/!svn/ver/18/Code/moodle/mod/assign/tests/events_test.php
+END
+lib_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mhrd/!svn/ver/18/Code/moodle/mod/assign/tests/lib_test.php
+END
+externallib_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mhrd/!svn/ver/18/Code/moodle/mod/assign/tests/externallib_test.php
+END

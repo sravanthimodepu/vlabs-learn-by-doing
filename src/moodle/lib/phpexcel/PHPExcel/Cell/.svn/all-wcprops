@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mhrd/!svn/ver/18/Code/moodle/lib/phpexcel/PHPExcel/Cell
+END
+IValueBinder.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mhrd/!svn/ver/18/Code/moodle/lib/phpexcel/PHPExcel/Cell/IValueBinder.php
+END
+DataType.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mhrd/!svn/ver/18/Code/moodle/lib/phpexcel/PHPExcel/Cell/DataType.php
+END
+DataValidation.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mhrd/!svn/ver/18/Code/moodle/lib/phpexcel/PHPExcel/Cell/DataValidation.php
+END
+DefaultValueBinder.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mhrd/!svn/ver/18/Code/moodle/lib/phpexcel/PHPExcel/Cell/DefaultValueBinder.php
+END
+Hyperlink.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mhrd/!svn/ver/18/Code/moodle/lib/phpexcel/PHPExcel/Cell/Hyperlink.php
+END
+AdvancedValueBinder.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mhrd/!svn/ver/18/Code/moodle/lib/phpexcel/PHPExcel/Cell/AdvancedValueBinder.php
+END

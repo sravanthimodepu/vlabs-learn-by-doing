@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/mhrd/!svn/ver/18/Code/moodle/blocks/settings
+END
+block_settings.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mhrd/!svn/ver/18/Code/moodle/blocks/settings/block_settings.php
+END
+styles.css
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mhrd/!svn/ver/18/Code/moodle/blocks/settings/styles.css
+END
+version.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mhrd/!svn/ver/18/Code/moodle/blocks/settings/version.php
+END
+renderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mhrd/!svn/ver/18/Code/moodle/blocks/settings/renderer.php
+END
+edit_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mhrd/!svn/ver/18/Code/moodle/blocks/settings/edit_form.php
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mhrd/!svn/ver/18/Code/moodle/mod/data/classes/event
+END
+comment_created.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mhrd/!svn/ver/18/Code/moodle/mod/data/classes/event/comment_created.php
+END
+field_deleted.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mhrd/!svn/ver/18/Code/moodle/mod/data/classes/event/field_deleted.php
+END
+field_updated.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mhrd/!svn/ver/18/Code/moodle/mod/data/classes/event/field_updated.php
+END
+field_created.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mhrd/!svn/ver/18/Code/moodle/mod/data/classes/event/field_created.php
+END
+template_viewed.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mhrd/!svn/ver/18/Code/moodle/mod/data/classes/event/template_viewed.php
+END
+template_updated.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mhrd/!svn/ver/18/Code/moodle/mod/data/classes/event/template_updated.php
+END
+record_deleted.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mhrd/!svn/ver/18/Code/moodle/mod/data/classes/event/record_deleted.php
+END
+record_updated.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mhrd/!svn/ver/18/Code/moodle/mod/data/classes/event/record_updated.php
+END
+record_created.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mhrd/!svn/ver/18/Code/moodle/mod/data/classes/event/record_created.php
+END
+course_module_instance_list_viewed.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mhrd/!svn/ver/18/Code/moodle/mod/data/classes/event/course_module_instance_list_viewed.php
+END
+comment_deleted.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mhrd/!svn/ver/18/Code/moodle/mod/data/classes/event/comment_deleted.php
+END
+course_module_viewed.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mhrd/!svn/ver/18/Code/moodle/mod/data/classes/event/course_module_viewed.php
+END

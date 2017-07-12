@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/mhrd/!svn/ver/18/Code/moodle/enrol/tests
+END
+role_external_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mhrd/!svn/ver/18/Code/moodle/enrol/tests/role_external_test.php
+END
+enrollib_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mhrd/!svn/ver/18/Code/moodle/enrol/tests/enrollib_test.php
+END
+externallib_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mhrd/!svn/ver/18/Code/moodle/enrol/tests/externallib_test.php
+END

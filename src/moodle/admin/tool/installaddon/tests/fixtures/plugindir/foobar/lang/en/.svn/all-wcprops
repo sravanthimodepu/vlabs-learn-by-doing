@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mhrd/!svn/ver/18/Code/moodle/admin/tool/installaddon/tests/fixtures/plugindir/foobar/lang/en
+END
+local_foobar.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/mhrd/!svn/ver/18/Code/moodle/admin/tool/installaddon/tests/fixtures/plugindir/foobar/lang/en/local_foobar.php
+END

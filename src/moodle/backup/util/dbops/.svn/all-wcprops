@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mhrd/!svn/ver/18/Code/moodle/backup/util/dbops
+END
+backup_plan_dbops.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mhrd/!svn/ver/18/Code/moodle/backup/util/dbops/backup_plan_dbops.class.php
+END
+restore_dbops.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mhrd/!svn/ver/18/Code/moodle/backup/util/dbops/restore_dbops.class.php
+END
+backup_dbops.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mhrd/!svn/ver/18/Code/moodle/backup/util/dbops/backup_dbops.class.php
+END
+backup_structure_dbops.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mhrd/!svn/ver/18/Code/moodle/backup/util/dbops/backup_structure_dbops.class.php
+END
+restore_controller_dbops.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mhrd/!svn/ver/18/Code/moodle/backup/util/dbops/restore_controller_dbops.class.php
+END
+backup_controller_dbops.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mhrd/!svn/ver/18/Code/moodle/backup/util/dbops/backup_controller_dbops.class.php
+END
+backup_question_dbops.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mhrd/!svn/ver/18/Code/moodle/backup/util/dbops/backup_question_dbops.class.php
+END

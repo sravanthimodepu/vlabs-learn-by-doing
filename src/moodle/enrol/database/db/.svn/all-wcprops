@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mhrd/!svn/ver/18/Code/moodle/enrol/database/db
+END
+access.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mhrd/!svn/ver/18/Code/moodle/enrol/database/db/access.php
+END
+install.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mhrd/!svn/ver/18/Code/moodle/enrol/database/db/install.php
+END
+upgrade.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mhrd/!svn/ver/18/Code/moodle/enrol/database/db/upgrade.php
+END

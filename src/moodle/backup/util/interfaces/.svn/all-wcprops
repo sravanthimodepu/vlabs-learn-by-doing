@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mhrd/!svn/ver/18/Code/moodle/backup/util/interfaces
+END
+checksumable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mhrd/!svn/ver/18/Code/moodle/backup/util/interfaces/checksumable.class.php
+END
+loggable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mhrd/!svn/ver/18/Code/moodle/backup/util/interfaces/loggable.class.php
+END
+executable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mhrd/!svn/ver/18/Code/moodle/backup/util/interfaces/executable.class.php
+END
+processable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mhrd/!svn/ver/18/Code/moodle/backup/util/interfaces/processable.class.php
+END
+annotable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mhrd/!svn/ver/18/Code/moodle/backup/util/interfaces/annotable.class.php
+END

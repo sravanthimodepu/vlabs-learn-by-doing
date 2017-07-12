@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mhrd/!svn/ver/18/Code/moodle/course/tests/behat
+END
+category_change_visibility.feature
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mhrd/!svn/ver/18/Code/moodle/course/tests/behat/category_change_visibility.feature
+END
+section_highlighting.feature
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mhrd/!svn/ver/18/Code/moodle/course/tests/behat/section_highlighting.feature
+END
+move_activities.feature
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mhrd/!svn/ver/18/Code/moodle/course/tests/behat/move_activities.feature
+END
+course_resort.feature
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mhrd/!svn/ver/18/Code/moodle/course/tests/behat/course_resort.feature
+END
+behat_course.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mhrd/!svn/ver/18/Code/moodle/course/tests/behat/behat_course.php
+END
+activities_indentation.feature
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mhrd/!svn/ver/18/Code/moodle/course/tests/behat/activities_indentation.feature
+END
+frontpage_display_modes.feature
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mhrd/!svn/ver/18/Code/moodle/course/tests/behat/frontpage_display_modes.feature
+END
+max_number_sections.feature
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mhrd/!svn/ver/18/Code/moodle/course/tests/behat/max_number_sections.feature
+END
+edit_settings.feature
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mhrd/!svn/ver/18/Code/moodle/course/tests/behat/edit_settings.feature
+END
+create_delete_course.feature
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mhrd/!svn/ver/18/Code/moodle/course/tests/behat/create_delete_course.feature
+END
+activities_visibility_icons.feature
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mhrd/!svn/ver/18/Code/moodle/course/tests/behat/activities_visibility_icons.feature
+END
+category_management.feature
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mhrd/!svn/ver/18/Code/moodle/course/tests/behat/category_management.feature
+END
+category_resort.feature
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mhrd/!svn/ver/18/Code/moodle/course/tests/behat/category_resort.feature
+END
+activities_group_icons.feature
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mhrd/!svn/ver/18/Code/moodle/course/tests/behat/activities_group_icons.feature
+END
+rename_roles.feature
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mhrd/!svn/ver/18/Code/moodle/course/tests/behat/rename_roles.feature
+END
+section_visibility.feature
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mhrd/!svn/ver/18/Code/moodle/course/tests/behat/section_visibility.feature
+END
+course_change_visibility.feature
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mhrd/!svn/ver/18/Code/moodle/course/tests/behat/course_change_visibility.feature
+END
+add_activities.feature
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mhrd/!svn/ver/18/Code/moodle/course/tests/behat/add_activities.feature
+END
+move_sections.feature
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mhrd/!svn/ver/18/Code/moodle/course/tests/behat/move_sections.feature
+END
+activities_edit_with_block_dock.feature
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mhrd/!svn/ver/18/Code/moodle/course/tests/behat/activities_edit_with_block_dock.feature
+END
+force_group_mode.feature
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mhrd/!svn/ver/18/Code/moodle/course/tests/behat/force_group_mode.feature
+END
+paged_course_navigation.feature
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mhrd/!svn/ver/18/Code/moodle/course/tests/behat/paged_course_navigation.feature
+END
+course_category_management_listing.feature
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mhrd/!svn/ver/18/Code/moodle/course/tests/behat/course_category_management_listing.feature
+END
+course_controls.feature
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mhrd/!svn/ver/18/Code/moodle/course/tests/behat/course_controls.feature
+END
+restrict_available_activities.feature
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mhrd/!svn/ver/18/Code/moodle/course/tests/behat/restrict_available_activities.feature
+END
+course_creation.feature
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mhrd/!svn/ver/18/Code/moodle/course/tests/behat/course_creation.feature
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mhrd/!svn/ver/18/Code/moodle/question/type/calculated/backup/moodle2
+END
+backup_qtype_calculated_plugin.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/mhrd/!svn/ver/18/Code/moodle/question/type/calculated/backup/moodle2/backup_qtype_calculated_plugin.class.php
+END
+restore_qtype_calculated_plugin.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/mhrd/!svn/ver/18/Code/moodle/question/type/calculated/backup/moodle2/restore_qtype_calculated_plugin.class.php
+END

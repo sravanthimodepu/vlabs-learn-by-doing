@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/mhrd/!svn/ver/18/Code/moodle/lib/tcpdf
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mhrd/!svn/ver/18/Code/moodle/lib/tcpdf/composer.json
+END
+LICENSE.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mhrd/!svn/ver/18/Code/moodle/lib/tcpdf/LICENSE.TXT
+END
+tcpdf_parser.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mhrd/!svn/ver/18/Code/moodle/lib/tcpdf/tcpdf_parser.php
+END
+tcpdf_autoconfig.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mhrd/!svn/ver/18/Code/moodle/lib/tcpdf/tcpdf_autoconfig.php
+END
+CHANGELOG.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mhrd/!svn/ver/18/Code/moodle/lib/tcpdf/CHANGELOG.TXT
+END
+tcpdf.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mhrd/!svn/ver/18/Code/moodle/lib/tcpdf/tcpdf.php
+END
+readme_moodle.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mhrd/!svn/ver/18/Code/moodle/lib/tcpdf/readme_moodle.txt
+END
+README.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/mhrd/!svn/ver/18/Code/moodle/lib/tcpdf/README.TXT
+END
+tcpdf_barcodes_1d.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mhrd/!svn/ver/18/Code/moodle/lib/tcpdf/tcpdf_barcodes_1d.php
+END
+tcpdf_barcodes_2d.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mhrd/!svn/ver/18/Code/moodle/lib/tcpdf/tcpdf_barcodes_2d.php
+END

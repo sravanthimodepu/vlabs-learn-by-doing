@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/mhrd/!svn/ver/18/Code/moodle/mod/forum/tests
+END
+maildigest_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mhrd/!svn/ver/18/Code/moodle/mod/forum/tests/maildigest_test.php
+END
+events_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mhrd/!svn/ver/18/Code/moodle/mod/forum/tests/events_test.php
+END
+generator_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mhrd/!svn/ver/18/Code/moodle/mod/forum/tests/generator_test.php
+END
+lib_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mhrd/!svn/ver/18/Code/moodle/mod/forum/tests/lib_test.php
+END
+externallib_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mhrd/!svn/ver/18/Code/moodle/mod/forum/tests/externallib_test.php
+END

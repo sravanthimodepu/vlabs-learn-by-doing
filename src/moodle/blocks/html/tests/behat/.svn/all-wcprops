@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mhrd/!svn/ver/18/Code/moodle/blocks/html/tests/behat
+END
+configuring_html_block.feature
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mhrd/!svn/ver/18/Code/moodle/blocks/html/tests/behat/configuring_html_block.feature
+END
+course_block.feature
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mhrd/!svn/ver/18/Code/moodle/blocks/html/tests/behat/course_block.feature
+END
+multiple_instances.feature
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mhrd/!svn/ver/18/Code/moodle/blocks/html/tests/behat/multiple_instances.feature
+END

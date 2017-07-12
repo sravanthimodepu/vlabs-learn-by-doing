@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/mhrd/!svn/ver/18/Code/moodle/backup
+END
+backup.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mhrd/!svn/ver/18/Code/moodle/backup/backup.class.php
+END
+import.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mhrd/!svn/ver/18/Code/moodle/backup/import.php
+END
+backupfilesedit.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mhrd/!svn/ver/18/Code/moodle/backup/backupfilesedit.php
+END
+upgrade.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mhrd/!svn/ver/18/Code/moodle/backup/upgrade.txt
+END
+backupfilesedit_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mhrd/!svn/ver/18/Code/moodle/backup/backupfilesedit_form.php
+END
+log.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/mhrd/!svn/ver/18/Code/moodle/backup/log.php
+END
+restore.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mhrd/!svn/ver/18/Code/moodle/backup/restore.php
+END
+restorefile.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mhrd/!svn/ver/18/Code/moodle/backup/restorefile.php
+END
+backup.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mhrd/!svn/ver/18/Code/moodle/backup/backup.php
+END
+restorefile_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mhrd/!svn/ver/18/Code/moodle/backup/restorefile_form.php
+END

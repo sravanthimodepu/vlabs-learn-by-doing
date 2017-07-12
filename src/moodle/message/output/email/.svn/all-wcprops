@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/mhrd/!svn/ver/18/Code/moodle/message/output/email
+END
+message_output_email.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mhrd/!svn/ver/18/Code/moodle/message/output/email/message_output_email.php
+END
+settings.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mhrd/!svn/ver/18/Code/moodle/message/output/email/settings.php
+END
+version.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mhrd/!svn/ver/18/Code/moodle/message/output/email/version.php
+END

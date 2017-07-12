@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mhrd/!svn/ver/18/Code/moodle/lib/editor/tinymce
+END
+module.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mhrd/!svn/ver/18/Code/moodle/lib/editor/tinymce/module.js
+END
+subplugins.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mhrd/!svn/ver/18/Code/moodle/lib/editor/tinymce/subplugins.php
+END
+thirdpartylibs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mhrd/!svn/ver/18/Code/moodle/lib/editor/tinymce/thirdpartylibs.xml
+END
+upgrade.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mhrd/!svn/ver/18/Code/moodle/lib/editor/tinymce/upgrade.txt
+END
+adminlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mhrd/!svn/ver/18/Code/moodle/lib/editor/tinymce/adminlib.php
+END
+settings.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mhrd/!svn/ver/18/Code/moodle/lib/editor/tinymce/settings.php
+END
+all_strings.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mhrd/!svn/ver/18/Code/moodle/lib/editor/tinymce/all_strings.php
+END
+styles.css
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mhrd/!svn/ver/18/Code/moodle/lib/editor/tinymce/styles.css
+END
+readme_moodle.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mhrd/!svn/ver/18/Code/moodle/lib/editor/tinymce/readme_moodle.txt
+END
+version.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mhrd/!svn/ver/18/Code/moodle/lib/editor/tinymce/version.php
+END
+lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mhrd/!svn/ver/18/Code/moodle/lib/editor/tinymce/lib.php
+END

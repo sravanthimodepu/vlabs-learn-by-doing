@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/mhrd/!svn/ver/18/Code/moodle/cohort/tests
+END
+cohortlib_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mhrd/!svn/ver/18/Code/moodle/cohort/tests/cohortlib_test.php
+END
+externallib_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mhrd/!svn/ver/18/Code/moodle/cohort/tests/externallib_test.php
+END
