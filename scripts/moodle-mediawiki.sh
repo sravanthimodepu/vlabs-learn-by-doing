@@ -1,5 +1,6 @@
 mysql -u root -p'Virtual-Labs123!@#' -e "create database mediawiki; GRANT ALL PRIVILEGES ON mediawiki.* TO root@localhost IDENTIFIED BY 'Virtual-Labs123!@#'; FLUSH PRIVILEGES"
 
+
 ############# install mediawiki #####################
 wget https://releases.wikimedia.org/mediawiki/1.28/mediawiki-1.28.2.tar.gz
 tar xvzf mediawiki-*.tar.gz
@@ -20,6 +21,8 @@ service httpd restart
 
 mysql -u root -p'Virtual-Labs123!@#' -e "create database moodle; GRANT ALL PRIVILEGES ON moodle.* TO root@localhost IDENTIFIED BY 'Virtual-Labs123!@#'; FLUSH PRIVILEGES"
 
+mysql -u root -p'Virtual-Labs123!@#' moodle < testmoodle.sql
+
 wget http://download.moodle.org/download.php/direct/stable25/moodle-latest-25.zip
 unzip moodle-latest-25.zip
 
@@ -27,7 +30,7 @@ unzip moodle-latest-25.zip
 chown -R root /var/www/html/moodle/
 chmod -R 755 /var/www/html/moodle/
 
-mkdir /var/www/moodledata/
-chmod 777 /var/www/moodledata/
+#mkdir /var/www/moodledata/
+#chmod 777 /var/www/moodledata/
 
 
