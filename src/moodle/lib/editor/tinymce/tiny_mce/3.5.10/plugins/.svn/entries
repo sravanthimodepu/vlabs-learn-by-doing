@@ -1,145 +1,0 @@
-10
-
-dir
-19
-http://10.2.52.238/mhrd/Code/moodle/lib/editor/tinymce/tiny_mce/3.5.10/plugins
-http://10.2.52.238/mhrd
-
-
-
-2014-10-22T09:16:28.635393Z
-18
-vamsi
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-17c4bada-1e28-4304-a6f2-8ccd4cfac8e9
-
-media
-dir
-
-pagebreak
-dir
-
-insertdatetime
-dir
-
-noneditable
-dir
-
-inlinepopups
-dir
-
-autolink
-dir
-
-example_dependency
-dir
-
-autoresize
-dir
-
-example
-dir
-
-emotions
-dir
-
-iespell
-dir
-
-save
-dir
-
-lists
-dir
-
-visualblocks
-dir
-
-advhr
-dir
-
-advlist
-dir
-
-tabfocus
-dir
-
-layer
-dir
-
-advimage
-dir
-
-preview
-dir
-
-directionality
-dir
-
-visualchars
-dir
-
-wordcount
-dir
-
-legacyoutput
-dir
-
-autosave
-dir
-
-table
-dir
-
-advlink
-dir
-
-print
-dir
-
-nonbreaking
-dir
-
-fullpage
-dir
-
-style
-dir
-
-searchreplace
-dir
-
-fullscreen
-dir
-
-spellchecker
-dir
-
-contextmenu
-dir
-
-template
-dir
-
-paste
-dir
-
-bbcode
-dir
-
-xhtmlxtras
-dir
-

@@ -1,131 +1,0 @@
-10
-
-dir
-19
-http://10.2.52.238/mhrd/Code/moodle/admin/tool
-http://10.2.52.238/mhrd
-
-
-
-2014-10-22T09:16:28.635393Z
-18
-vamsi
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-17c4bada-1e28-4304-a6f2-8ccd4cfac8e9
-
-unsuproles
-dir
-
-assignmentupgrade
-dir
-
-log
-dir
-
-capability
-dir
-
-behat
-dir
-
-uploaduser
-dir
-
-timezoneimport
-dir
-
-generator
-dir
-
-phpunit
-dir
-
-profiling
-dir
-
-dbtransfer
-dir
-
-spamcleaner
-dir
-
-task
-dir
-
-multilangupgrade
-dir
-
-availabilityconditions
-dir
-
-health
-dir
-
-uploadcourse
-dir
-
-upgrade.txt
-file
-
-
-
-
-2014-10-25T08:27:20.806231Z
-e3a42fb02305e6b0a93e7a0c6e9c0391
-2014-10-22T09:16:28.635393Z
-18
-vamsi
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-872
-
-xmldb
-dir
-
-innodb
-dir
-
-replace
-dir
-
-langimport
-dir
-
-installaddon
-dir
-
-customlang
-dir
-
