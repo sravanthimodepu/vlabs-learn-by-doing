@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mhrd/!svn/ver/18/Code/moodle/lib/ddl/tests/fixtures
+END
+invalid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mhrd/!svn/ver/18/Code/moodle/lib/ddl/tests/fixtures/invalid.xml
+END
+xmldb_table.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mhrd/!svn/ver/18/Code/moodle/lib/ddl/tests/fixtures/xmldb_table.xml
+END

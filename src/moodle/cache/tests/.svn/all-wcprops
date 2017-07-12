@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/mhrd/!svn/ver/18/Code/moodle/cache/tests
+END
+config_writer_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mhrd/!svn/ver/18/Code/moodle/cache/tests/config_writer_test.php
+END
+cache_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mhrd/!svn/ver/18/Code/moodle/cache/tests/cache_test.php
+END
+administration_helper_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mhrd/!svn/ver/18/Code/moodle/cache/tests/administration_helper_test.php
+END

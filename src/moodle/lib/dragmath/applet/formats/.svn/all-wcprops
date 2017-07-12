@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mhrd/!svn/ver/18/Code/moodle/lib/dragmath/applet/formats
+END
+MoodleTex.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mhrd/!svn/ver/18/Code/moodle/lib/dragmath/applet/formats/MoodleTex.xml
+END
+Tex.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mhrd/!svn/ver/18/Code/moodle/lib/dragmath/applet/formats/Tex.xml
+END
+MathML.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mhrd/!svn/ver/18/Code/moodle/lib/dragmath/applet/formats/MathML.xml
+END
+ASCIIMathML.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mhrd/!svn/ver/18/Code/moodle/lib/dragmath/applet/formats/ASCIIMathML.xml
+END
+Maxima.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mhrd/!svn/ver/18/Code/moodle/lib/dragmath/applet/formats/Maxima.xml
+END
+Latex.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mhrd/!svn/ver/18/Code/moodle/lib/dragmath/applet/formats/Latex.xml
+END
+Maple.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mhrd/!svn/ver/18/Code/moodle/lib/dragmath/applet/formats/Maple.xml
+END

@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mhrd/!svn/ver/18/Code/moodle/lib/classes/task
+END
+check_for_updates_task.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mhrd/!svn/ver/18/Code/moodle/lib/classes/task/check_for_updates_task.php
+END
+cache_cleanup_task.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mhrd/!svn/ver/18/Code/moodle/lib/classes/task/cache_cleanup_task.php
+END
+task_base.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mhrd/!svn/ver/18/Code/moodle/lib/classes/task/task_base.php
+END
+send_failed_login_notifications_task.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mhrd/!svn/ver/18/Code/moodle/lib/classes/task/send_failed_login_notifications_task.php
+END
+stats_cron_task.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mhrd/!svn/ver/18/Code/moodle/lib/classes/task/stats_cron_task.php
+END
+messaging_cleanup_task.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mhrd/!svn/ver/18/Code/moodle/lib/classes/task/messaging_cleanup_task.php
+END
+session_cleanup_task.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mhrd/!svn/ver/18/Code/moodle/lib/classes/task/session_cleanup_task.php
+END
+calendar_cron_task.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mhrd/!svn/ver/18/Code/moodle/lib/classes/task/calendar_cron_task.php
+END
+create_contexts_task.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mhrd/!svn/ver/18/Code/moodle/lib/classes/task/create_contexts_task.php
+END
+registration_cron_task.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mhrd/!svn/ver/18/Code/moodle/lib/classes/task/registration_cron_task.php
+END
+portfolio_cron_task.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mhrd/!svn/ver/18/Code/moodle/lib/classes/task/portfolio_cron_task.php
+END
+delete_incomplete_users_task.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mhrd/!svn/ver/18/Code/moodle/lib/classes/task/delete_incomplete_users_task.php
+END
+legacy_plugin_cron_task.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mhrd/!svn/ver/18/Code/moodle/lib/classes/task/legacy_plugin_cron_task.php
+END
+grade_cron_task.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mhrd/!svn/ver/18/Code/moodle/lib/classes/task/grade_cron_task.php
+END
+blog_cron_task.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mhrd/!svn/ver/18/Code/moodle/lib/classes/task/blog_cron_task.php
+END
+send_new_user_passwords_task.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mhrd/!svn/ver/18/Code/moodle/lib/classes/task/send_new_user_passwords_task.php
+END
+badges_cron_task.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mhrd/!svn/ver/18/Code/moodle/lib/classes/task/badges_cron_task.php
+END
+automated_backup_task.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mhrd/!svn/ver/18/Code/moodle/lib/classes/task/automated_backup_task.php
+END
+plagiarism_cron_task.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mhrd/!svn/ver/18/Code/moodle/lib/classes/task/plagiarism_cron_task.php
+END
+password_reset_cleanup_task.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mhrd/!svn/ver/18/Code/moodle/lib/classes/task/password_reset_cleanup_task.php
+END
+file_temp_cleanup_task.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mhrd/!svn/ver/18/Code/moodle/lib/classes/task/file_temp_cleanup_task.php
+END
+backup_cleanup_task.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mhrd/!svn/ver/18/Code/moodle/lib/classes/task/backup_cleanup_task.php
+END
+delete_unconfirmed_users_task.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mhrd/!svn/ver/18/Code/moodle/lib/classes/task/delete_unconfirmed_users_task.php
+END
+adhoc_task.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mhrd/!svn/ver/18/Code/moodle/lib/classes/task/adhoc_task.php
+END
+cache_cron_task.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mhrd/!svn/ver/18/Code/moodle/lib/classes/task/cache_cron_task.php
+END
+events_cron_task.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mhrd/!svn/ver/18/Code/moodle/lib/classes/task/events_cron_task.php
+END
+file_trash_cleanup_task.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mhrd/!svn/ver/18/Code/moodle/lib/classes/task/file_trash_cleanup_task.php
+END
+question_cron_task.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mhrd/!svn/ver/18/Code/moodle/lib/classes/task/question_cron_task.php
+END
+manager.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mhrd/!svn/ver/18/Code/moodle/lib/classes/task/manager.php
+END
+completion_cron_task.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mhrd/!svn/ver/18/Code/moodle/lib/classes/task/completion_cron_task.php
+END
+context_cleanup_task.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mhrd/!svn/ver/18/Code/moodle/lib/classes/task/context_cleanup_task.php
+END
+tag_cron_task.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mhrd/!svn/ver/18/Code/moodle/lib/classes/task/tag_cron_task.php
+END
+scheduled_task.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mhrd/!svn/ver/18/Code/moodle/lib/classes/task/scheduled_task.php
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Service/DeveloperGarden
+END
+BaseUserService.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Service/DeveloperGarden/BaseUserService.php
+END
+Credential.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Service/DeveloperGarden/Credential.php
+END
+SendSms.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Service/DeveloperGarden/SendSms.php
+END
+SmsValidation.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Service/DeveloperGarden/SmsValidation.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Service/DeveloperGarden/Exception.php
+END
+SecurityTokenServer.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Service/DeveloperGarden/SecurityTokenServer.php
+END
+LocalSearch.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Service/DeveloperGarden/LocalSearch.php
+END
+VoiceCall.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Service/DeveloperGarden/VoiceCall.php
+END
+IpLocation.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Service/DeveloperGarden/IpLocation.php
+END
+ConferenceCall.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Service/DeveloperGarden/ConferenceCall.php
+END

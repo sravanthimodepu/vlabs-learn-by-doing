@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mhrd/!svn/ver/18/Code/moodle/lib/yuilib/3.15.0/test
+END
+test.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mhrd/!svn/ver/18/Code/moodle/lib/yuilib/3.15.0/test/test.js
+END
+test-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mhrd/!svn/ver/18/Code/moodle/lib/yuilib/3.15.0/test/test-min.js
+END
+test-debug.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mhrd/!svn/ver/18/Code/moodle/lib/yuilib/3.15.0/test/test-debug.js
+END

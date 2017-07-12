@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mhrd/!svn/ver/18/Code/moodle/mod/workshop/classes/event
+END
+assessments_reset.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mhrd/!svn/ver/18/Code/moodle/mod/workshop/classes/event/assessments_reset.php
+END
+phase_switched.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mhrd/!svn/ver/18/Code/moodle/mod/workshop/classes/event/phase_switched.php
+END
+submission_reassessed.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mhrd/!svn/ver/18/Code/moodle/mod/workshop/classes/event/submission_reassessed.php
+END
+submission_viewed.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mhrd/!svn/ver/18/Code/moodle/mod/workshop/classes/event/submission_viewed.php
+END
+assessment_evaluated.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mhrd/!svn/ver/18/Code/moodle/mod/workshop/classes/event/assessment_evaluated.php
+END
+assessment_evaluations_reset.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mhrd/!svn/ver/18/Code/moodle/mod/workshop/classes/event/assessment_evaluations_reset.php
+END
+submission_updated.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mhrd/!svn/ver/18/Code/moodle/mod/workshop/classes/event/submission_updated.php
+END
+assessable_uploaded.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mhrd/!svn/ver/18/Code/moodle/mod/workshop/classes/event/assessable_uploaded.php
+END
+submission_created.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mhrd/!svn/ver/18/Code/moodle/mod/workshop/classes/event/submission_created.php
+END
+submission_assessed.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mhrd/!svn/ver/18/Code/moodle/mod/workshop/classes/event/submission_assessed.php
+END
+assessment_reevaluated.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mhrd/!svn/ver/18/Code/moodle/mod/workshop/classes/event/assessment_reevaluated.php
+END
+course_module_instance_list_viewed.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mhrd/!svn/ver/18/Code/moodle/mod/workshop/classes/event/course_module_instance_list_viewed.php
+END
+course_module_viewed.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mhrd/!svn/ver/18/Code/moodle/mod/workshop/classes/event/course_module_viewed.php
+END

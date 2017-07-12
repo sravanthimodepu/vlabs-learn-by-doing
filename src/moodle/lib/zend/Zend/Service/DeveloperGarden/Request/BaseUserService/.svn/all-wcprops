@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Service/DeveloperGarden/Request/BaseUserService
+END
+ChangeQuotaPool.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Service/DeveloperGarden/Request/BaseUserService/ChangeQuotaPool.php
+END
+GetQuotaInformation.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Service/DeveloperGarden/Request/BaseUserService/GetQuotaInformation.php
+END
+GetAccountBalance.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Service/DeveloperGarden/Request/BaseUserService/GetAccountBalance.php
+END

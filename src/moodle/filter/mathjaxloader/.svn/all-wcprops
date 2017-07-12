@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/mhrd/!svn/ver/18/Code/moodle/filter/mathjaxloader
+END
+upgrade.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mhrd/!svn/ver/18/Code/moodle/filter/mathjaxloader/upgrade.txt
+END
+settings.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mhrd/!svn/ver/18/Code/moodle/filter/mathjaxloader/settings.php
+END
+readme_moodle.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mhrd/!svn/ver/18/Code/moodle/filter/mathjaxloader/readme_moodle.txt
+END
+styles.css
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mhrd/!svn/ver/18/Code/moodle/filter/mathjaxloader/styles.css
+END
+filter.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mhrd/!svn/ver/18/Code/moodle/filter/mathjaxloader/filter.php
+END
+version.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mhrd/!svn/ver/18/Code/moodle/filter/mathjaxloader/version.php
+END

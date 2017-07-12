@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mhrd/!svn/ver/18/Code/moodle/cohort/tests/behat
+END
+add_cohort.feature
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mhrd/!svn/ver/18/Code/moodle/cohort/tests/behat/add_cohort.feature
+END
+behat_cohort.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mhrd/!svn/ver/18/Code/moodle/cohort/tests/behat/behat_cohort.php
+END
+upload_cohort_users.feature
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mhrd/!svn/ver/18/Code/moodle/cohort/tests/behat/upload_cohort_users.feature
+END

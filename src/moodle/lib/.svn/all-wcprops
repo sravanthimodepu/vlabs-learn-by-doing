@@ -1,0 +1,605 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/mhrd/!svn/ver/18/Code/moodle/lib
+END
+olson.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/mhrd/!svn/ver/18/Code/moodle/lib/olson.php
+END
+eventslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mhrd/!svn/ver/18/Code/moodle/lib/eventslib.php
+END
+excellib.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mhrd/!svn/ver/18/Code/moodle/lib/excellib.class.php
+END
+clilib.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/mhrd/!svn/ver/18/Code/moodle/lib/clilib.php
+END
+wordlist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mhrd/!svn/ver/18/Code/moodle/lib/wordlist.txt
+END
+outputfactories.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mhrd/!svn/ver/18/Code/moodle/lib/outputfactories.php
+END
+pdflib.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/mhrd/!svn/ver/18/Code/moodle/lib/pdflib.php
+END
+jslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/mhrd/!svn/ver/18/Code/moodle/lib/jslib.php
+END
+portfoliolib.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/mhrd/!svn/ver/18/Code/moodle/lib/portfoliolib.php
+END
+javascript.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mhrd/!svn/ver/18/Code/moodle/lib/javascript.php
+END
+medialib.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mhrd/!svn/ver/18/Code/moodle/lib/medialib.php
+END
+editorlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mhrd/!svn/ver/18/Code/moodle/lib/editorlib.php
+END
+formslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mhrd/!svn/ver/18/Code/moodle/lib/formslib.php
+END
+thirdpartylibs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mhrd/!svn/ver/18/Code/moodle/lib/thirdpartylibs.xml
+END
+resourcelib.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mhrd/!svn/ver/18/Code/moodle/lib/resourcelib.php
+END
+coursecatlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/mhrd/!svn/ver/18/Code/moodle/lib/coursecatlib.php
+END
+boxlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/mhrd/!svn/ver/18/Code/moodle/lib/boxlib.php
+END
+textlib.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mhrd/!svn/ver/18/Code/moodle/lib/textlib.class.php
+END
+javascript-static.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mhrd/!svn/ver/18/Code/moodle/lib/javascript-static.js
+END
+customcheckslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mhrd/!svn/ver/18/Code/moodle/lib/customcheckslib.php
+END
+statslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mhrd/!svn/ver/18/Code/moodle/lib/statslib.php
+END
+setuplib.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mhrd/!svn/ver/18/Code/moodle/lib/setuplib.php
+END
+outputlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mhrd/!svn/ver/18/Code/moodle/lib/outputlib.php
+END
+deprecatedlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mhrd/!svn/ver/18/Code/moodle/lib/deprecatedlib.php
+END
+accesslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mhrd/!svn/ver/18/Code/moodle/lib/accesslib.php
+END
+authlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/mhrd/!svn/ver/18/Code/moodle/lib/authlib.php
+END
+tokeniserlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/mhrd/!svn/ver/18/Code/moodle/lib/tokeniserlib.php
+END
+configonlylib.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mhrd/!svn/ver/18/Code/moodle/lib/configonlylib.php
+END
+webdavlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mhrd/!svn/ver/18/Code/moodle/lib/webdavlib.php
+END
+datalib.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/mhrd/!svn/ver/18/Code/moodle/lib/datalib.php
+END
+pagelib.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/mhrd/!svn/ver/18/Code/moodle/lib/pagelib.php
+END
+filelib.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/mhrd/!svn/ver/18/Code/moodle/lib/filelib.php
+END
+ldaplib.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/mhrd/!svn/ver/18/Code/moodle/lib/ldaplib.php
+END
+wiki_to_markdown.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mhrd/!svn/ver/18/Code/moodle/lib/wiki_to_markdown.php
+END
+htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/mhrd/!svn/ver/18/Code/moodle/lib/htaccess
+END
+oauthlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mhrd/!svn/ver/18/Code/moodle/lib/oauthlib.php
+END
+xsendfilelib.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/mhrd/!svn/ver/18/Code/moodle/lib/xsendfilelib.php
+END
+gradelib.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mhrd/!svn/ver/18/Code/moodle/lib/gradelib.php
+END
+sessionlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mhrd/!svn/ver/18/Code/moodle/lib/sessionlib.php
+END
+filterlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mhrd/!svn/ver/18/Code/moodle/lib/filterlib.php
+END
+conditionlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/mhrd/!svn/ver/18/Code/moodle/lib/conditionlib.php
+END
+upgradelib.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mhrd/!svn/ver/18/Code/moodle/lib/upgradelib.php
+END
+plagiarismlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mhrd/!svn/ver/18/Code/moodle/lib/plagiarismlib.php
+END
+odslib.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/mhrd/!svn/ver/18/Code/moodle/lib/odslib.class.php
+END
+outputactions.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mhrd/!svn/ver/18/Code/moodle/lib/outputactions.php
+END
+cookies.js
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/mhrd/!svn/ver/18/Code/moodle/lib/cookies.js
+END
+modinfolib.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mhrd/!svn/ver/18/Code/moodle/lib/modinfolib.php
+END
+grouplib.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mhrd/!svn/ver/18/Code/moodle/lib/grouplib.php
+END
+cacert.txt
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/mhrd/!svn/ver/18/Code/moodle/lib/cacert.txt
+END
+ddllib.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/mhrd/!svn/ver/18/Code/moodle/lib/ddllib.php
+END
+outputrequirementslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mhrd/!svn/ver/18/Code/moodle/lib/outputrequirementslib.php
+END
+environmentlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mhrd/!svn/ver/18/Code/moodle/lib/environmentlib.php
+END
+cacert.pem
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/mhrd/!svn/ver/18/Code/moodle/lib/cacert.pem
+END
+componentlib.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mhrd/!svn/ver/18/Code/moodle/lib/componentlib.class.php
+END
+rsslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/mhrd/!svn/ver/18/Code/moodle/lib/rsslib.php
+END
+womenslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mhrd/!svn/ver/18/Code/moodle/lib/womenslib.php
+END
+html2text_readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mhrd/!svn/ver/18/Code/moodle/lib/html2text_readme.txt
+END
+dmllib.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/mhrd/!svn/ver/18/Code/moodle/lib/dmllib.php
+END
+googleapi.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mhrd/!svn/ver/18/Code/moodle/lib/googleapi.php
+END
+enrollib.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mhrd/!svn/ver/18/Code/moodle/lib/enrollib.php
+END
+moodlelib.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mhrd/!svn/ver/18/Code/moodle/lib/moodlelib.php
+END
+xmlize.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/mhrd/!svn/ver/18/Code/moodle/lib/xmlize.php
+END
+externallib.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mhrd/!svn/ver/18/Code/moodle/lib/externallib.php
+END
+dtllib.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/mhrd/!svn/ver/18/Code/moodle/lib/dtllib.php
+END
+badgeslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mhrd/!svn/ver/18/Code/moodle/lib/badgeslib.php
+END
+lexer.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/mhrd/!svn/ver/18/Code/moodle/lib/lexer.php
+END
+adminlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mhrd/!svn/ver/18/Code/moodle/lib/adminlib.php
+END
+csslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/mhrd/!svn/ver/18/Code/moodle/lib/csslib.php
+END
+recaptchalib.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/mhrd/!svn/ver/18/Code/moodle/lib/recaptchalib.php
+END
+gdlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/mhrd/!svn/ver/18/Code/moodle/lib/gdlib.php
+END
+blocklib.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mhrd/!svn/ver/18/Code/moodle/lib/blocklib.php
+END
+timezone.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mhrd/!svn/ver/18/Code/moodle/lib/timezone.txt
+END
+csvlib.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/mhrd/!svn/ver/18/Code/moodle/lib/csvlib.class.php
+END
+graphlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mhrd/!svn/ver/18/Code/moodle/lib/graphlib.php
+END
+soaplib.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/mhrd/!svn/ver/18/Code/moodle/lib/soaplib.php
+END
+default.ttf
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/mhrd/!svn/ver/18/Code/moodle/lib/default.ttf
+END
+html2text.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mhrd/!svn/ver/18/Code/moodle/lib/html2text.php
+END
+searchlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mhrd/!svn/ver/18/Code/moodle/lib/searchlib.php
+END
+installlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mhrd/!svn/ver/18/Code/moodle/lib/installlib.php
+END
+emptyfile.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mhrd/!svn/ver/18/Code/moodle/lib/emptyfile.php
+END
+questionlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mhrd/!svn/ver/18/Code/moodle/lib/questionlib.php
+END
+setup.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/mhrd/!svn/ver/18/Code/moodle/lib/setup.php
+END
+completionlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mhrd/!svn/ver/18/Code/moodle/lib/completionlib.php
+END
+flickrlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mhrd/!svn/ver/18/Code/moodle/lib/flickrlib.php
+END
+listlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/mhrd/!svn/ver/18/Code/moodle/lib/listlib.php
+END
+mathslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mhrd/!svn/ver/18/Code/moodle/lib/mathslib.php
+END
+weblib.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/mhrd/!svn/ver/18/Code/moodle/lib/weblib.php
+END
+outputcomponents.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mhrd/!svn/ver/18/Code/moodle/lib/outputcomponents.php
+END
+licenselib.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mhrd/!svn/ver/18/Code/moodle/lib/licenselib.php
+END
+outputrenderers.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mhrd/!svn/ver/18/Code/moodle/lib/outputrenderers.php
+END
+xhtml.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/mhrd/!svn/ver/18/Code/moodle/lib/xhtml.xsl
+END
+messagelib.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mhrd/!svn/ver/18/Code/moodle/lib/messagelib.php
+END
+uploadlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mhrd/!svn/ver/18/Code/moodle/lib/uploadlib.php
+END
+tablelib.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mhrd/!svn/ver/18/Code/moodle/lib/tablelib.php
+END
+upgrade.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/mhrd/!svn/ver/18/Code/moodle/lib/upgrade.txt
+END
+validateurlsyntax.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mhrd/!svn/ver/18/Code/moodle/lib/validateurlsyntax.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/mhrd/!svn/ver/18/Code/moodle/lib/index.html
+END
+pluginlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mhrd/!svn/ver/18/Code/moodle/lib/pluginlib.php
+END
+navigationlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mhrd/!svn/ver/18/Code/moodle/lib/navigationlib.php
+END
+cronlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/mhrd/!svn/ver/18/Code/moodle/lib/cronlib.php
+END

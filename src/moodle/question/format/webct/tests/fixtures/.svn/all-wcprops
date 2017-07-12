@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mhrd/!svn/ver/18/Code/moodle/question/format/webct/tests/fixtures
+END
+sample_webct.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mhrd/!svn/ver/18/Code/moodle/question/format/webct/tests/fixtures/sample_webct.txt
+END
+sample_calculated_webct.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mhrd/!svn/ver/18/Code/moodle/question/format/webct/tests/fixtures/sample_calculated_webct.txt
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mhrd/!svn/ver/18/Code/moodle/question/classes/statistics/responses
+END
+analysis_for_subpart.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mhrd/!svn/ver/18/Code/moodle/question/classes/statistics/responses/analysis_for_subpart.php
+END
+analyser.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mhrd/!svn/ver/18/Code/moodle/question/classes/statistics/responses/analyser.php
+END
+analysis_for_class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mhrd/!svn/ver/18/Code/moodle/question/classes/statistics/responses/analysis_for_class.php
+END
+analysis_for_question_all_tries.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/mhrd/!svn/ver/18/Code/moodle/question/classes/statistics/responses/analysis_for_question_all_tries.php
+END
+analysis_for_actual_response.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mhrd/!svn/ver/18/Code/moodle/question/classes/statistics/responses/analysis_for_actual_response.php
+END
+analysis_for_question.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mhrd/!svn/ver/18/Code/moodle/question/classes/statistics/responses/analysis_for_question.php
+END

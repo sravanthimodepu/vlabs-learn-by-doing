@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Gdata/Calendar/Extension
+END
+AccessLevel.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Gdata/Calendar/Extension/AccessLevel.php
+END
+Timezone.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Gdata/Calendar/Extension/Timezone.php
+END
+Hidden.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Gdata/Calendar/Extension/Hidden.php
+END
+Link.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Gdata/Calendar/Extension/Link.php
+END
+Color.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Gdata/Calendar/Extension/Color.php
+END
+QuickAdd.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Gdata/Calendar/Extension/QuickAdd.php
+END
+SendEventNotifications.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Gdata/Calendar/Extension/SendEventNotifications.php
+END
+Selected.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Gdata/Calendar/Extension/Selected.php
+END
+WebContent.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mhrd/!svn/ver/18/Code/moodle/lib/zend/Zend/Gdata/Calendar/Extension/WebContent.php
+END

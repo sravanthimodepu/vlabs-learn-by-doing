@@ -1,0 +1,287 @@
+10
+
+dir
+19
+http://10.2.52.238/mhrd/Code/moodle/blocks
+http://10.2.52.238/mhrd
+
+
+
+2014-10-22T09:16:28.635393Z
+18
+vamsi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17c4bada-1e28-4304-a6f2-8ccd4cfac8e9
+
+mnet_hosts
+dir
+
+blog_recent
+dir
+
+moodleblock.class.php
+file
+
+
+
+
+2014-10-25T08:27:39.067339Z
+b1057b5c3a114d9a5f078f3c4a7ae98c
+2014-10-22T09:16:28.635393Z
+18
+vamsi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28123
+
+badges
+dir
+
+comments
+dir
+
+course_overview
+dir
+
+tag_youtube
+dir
+
+jsgroup
+dir
+
+course_list
+dir
+
+private_files
+dir
+
+site_main_menu
+dir
+
+social_activities
+dir
+
+tags
+dir
+
+settings
+dir
+
+tests
+dir
+
+glossary_random
+dir
+
+html
+dir
+
+section_links
+dir
+
+rss_client
+dir
+
+messages
+dir
+
+login
+dir
+
+quiz_results
+dir
+
+calendar_upcoming
+dir
+
+news_items
+dir
+
+completionstatus
+dir
+
+selfcompletion
+dir
+
+activity_modules
+dir
+
+community
+dir
+
+feedback
+dir
+
+recent_activity
+dir
+
+edit_form.php
+file
+
+
+
+
+2014-10-25T08:27:39.068339Z
+7d0069b248cfb78796e0f5baebf7718a
+2014-10-22T09:16:28.635393Z
+18
+vamsi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13898
+
+navigation
+dir
+
+mentees
+dir
+
+admin_bookmarks
+dir
+
+search_forums
+dir
+
+participants
+dir
+
+blog_tags
+dir
+
+online_users
+dir
+
+tag_flickr
+dir
+
+upgrade.txt
+file
+
+
+
+
+2014-10-25T08:27:39.068339Z
+0f35285061b11e1fcdb12807aaf28eb8
+2014-10-22T09:16:28.635393Z
+18
+vamsi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1680
+
+myprofile
+dir
+
+blog_menu
+dir
+
+index.html
+file
+
+
+
+
+2014-10-25T08:27:39.068339Z
+68b329da9893e34099c7d8ad5cb9c940
+2014-10-22T09:16:28.635393Z
+18
+vamsi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+course_summary
+dir
+
+calendar_month
+dir
+

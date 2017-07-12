@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mhrd/!svn/ver/18/Code/moodle/mod/data/backup/moodle2
+END
+restore_data_activity_task.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mhrd/!svn/ver/18/Code/moodle/mod/data/backup/moodle2/restore_data_activity_task.class.php
+END
+backup_data_activity_task.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mhrd/!svn/ver/18/Code/moodle/mod/data/backup/moodle2/backup_data_activity_task.class.php
+END
+restore_data_stepslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mhrd/!svn/ver/18/Code/moodle/mod/data/backup/moodle2/restore_data_stepslib.php
+END
+backup_data_stepslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mhrd/!svn/ver/18/Code/moodle/mod/data/backup/moodle2/backup_data_stepslib.php
+END

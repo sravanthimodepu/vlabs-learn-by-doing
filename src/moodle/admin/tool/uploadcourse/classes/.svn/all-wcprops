@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/mhrd/!svn/ver/18/Code/moodle/admin/tool/uploadcourse/classes
+END
+tracker.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mhrd/!svn/ver/18/Code/moodle/admin/tool/uploadcourse/classes/tracker.php
+END
+base_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mhrd/!svn/ver/18/Code/moodle/admin/tool/uploadcourse/classes/base_form.php
+END
+helper.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mhrd/!svn/ver/18/Code/moodle/admin/tool/uploadcourse/classes/helper.php
+END
+processor.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mhrd/!svn/ver/18/Code/moodle/admin/tool/uploadcourse/classes/processor.php
+END
+step1_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mhrd/!svn/ver/18/Code/moodle/admin/tool/uploadcourse/classes/step1_form.php
+END
+course.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mhrd/!svn/ver/18/Code/moodle/admin/tool/uploadcourse/classes/course.php
+END
+step2_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mhrd/!svn/ver/18/Code/moodle/admin/tool/uploadcourse/classes/step2_form.php
+END

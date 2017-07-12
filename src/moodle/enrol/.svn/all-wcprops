@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/mhrd/!svn/ver/18/Code/moodle/enrol
+END
+editenrolment_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mhrd/!svn/ver/18/Code/moodle/enrol/editenrolment_form.php
+END
+test_settings.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mhrd/!svn/ver/18/Code/moodle/enrol/test_settings.php
+END
+users.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/mhrd/!svn/ver/18/Code/moodle/enrol/users.php
+END
+bulkchange.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/mhrd/!svn/ver/18/Code/moodle/enrol/bulkchange.php
+END
+otherusers.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/mhrd/!svn/ver/18/Code/moodle/enrol/otherusers.php
+END
+renderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mhrd/!svn/ver/18/Code/moodle/enrol/renderer.php
+END
+users_forms.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mhrd/!svn/ver/18/Code/moodle/enrol/users_forms.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/mhrd/!svn/ver/18/Code/moodle/enrol/index.php
+END
+editenrolment.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mhrd/!svn/ver/18/Code/moodle/enrol/editenrolment.php
+END
+externallib.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mhrd/!svn/ver/18/Code/moodle/enrol/externallib.php
+END
+bulkchange_forms.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mhrd/!svn/ver/18/Code/moodle/enrol/bulkchange_forms.php
+END
+upgrade.txt
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/mhrd/!svn/ver/18/Code/moodle/enrol/upgrade.txt
+END
+locallib.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/mhrd/!svn/ver/18/Code/moodle/enrol/locallib.php
+END
+unenroluser.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/mhrd/!svn/ver/18/Code/moodle/enrol/unenroluser.php
+END
+ajax.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/mhrd/!svn/ver/18/Code/moodle/enrol/ajax.php
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/mhrd/!svn/ver/18/Code/moodle/enrol/README.txt
+END
+instances.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/mhrd/!svn/ver/18/Code/moodle/enrol/instances.php
+END

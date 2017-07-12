@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/mhrd/!svn/ver/18/Code/moodle/blocks/html/backup/moodle2
+END
+backup_html_block_task.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mhrd/!svn/ver/18/Code/moodle/blocks/html/backup/moodle2/backup_html_block_task.class.php
+END
+restore_html_block_task.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mhrd/!svn/ver/18/Code/moodle/blocks/html/backup/moodle2/restore_html_block_task.class.php
+END

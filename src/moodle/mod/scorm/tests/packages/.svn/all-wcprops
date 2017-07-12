@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mhrd/!svn/ver/18/Code/moodle/mod/scorm/tests/packages
+END
+validaicc.zip
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mhrd/!svn/ver/18/Code/moodle/mod/scorm/tests/packages/validaicc.zip
+END
+validscorm.zip
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mhrd/!svn/ver/18/Code/moodle/mod/scorm/tests/packages/validscorm.zip
+END
+invalid.zip
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mhrd/!svn/ver/18/Code/moodle/mod/scorm/tests/packages/invalid.zip
+END
+singlescobasic.zip
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mhrd/!svn/ver/18/Code/moodle/mod/scorm/tests/packages/singlescobasic.zip
+END
+readme_moodle.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mhrd/!svn/ver/18/Code/moodle/mod/scorm/tests/packages/readme_moodle.txt
+END
+badscorm.zip
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mhrd/!svn/ver/18/Code/moodle/mod/scorm/tests/packages/badscorm.zip
+END
+singlesco_scorm12.zip
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mhrd/!svn/ver/18/Code/moodle/mod/scorm/tests/packages/singlesco_scorm12.zip
+END

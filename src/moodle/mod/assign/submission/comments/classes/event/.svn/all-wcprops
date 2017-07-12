@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mhrd/!svn/ver/18/Code/moodle/mod/assign/submission/comments/classes/event
+END
+comment_created.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mhrd/!svn/ver/18/Code/moodle/mod/assign/submission/comments/classes/event/comment_created.php
+END
+comment_deleted.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mhrd/!svn/ver/18/Code/moodle/mod/assign/submission/comments/classes/event/comment_deleted.php
+END

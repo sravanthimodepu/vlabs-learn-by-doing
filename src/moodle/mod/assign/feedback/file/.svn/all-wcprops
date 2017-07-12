@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mhrd/!svn/ver/18/Code/moodle/mod/assign/feedback/file
+END
+uploadzipform.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mhrd/!svn/ver/18/Code/moodle/mod/assign/feedback/file/uploadzipform.php
+END
+batchuploadfilesform.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mhrd/!svn/ver/18/Code/moodle/mod/assign/feedback/file/batchuploadfilesform.php
+END
+settings.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mhrd/!svn/ver/18/Code/moodle/mod/assign/feedback/file/settings.php
+END
+importzipform.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mhrd/!svn/ver/18/Code/moodle/mod/assign/feedback/file/importzipform.php
+END
+locallib.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mhrd/!svn/ver/18/Code/moodle/mod/assign/feedback/file/locallib.php
+END
+renderable.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mhrd/!svn/ver/18/Code/moodle/mod/assign/feedback/file/renderable.php
+END
+importziplib.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mhrd/!svn/ver/18/Code/moodle/mod/assign/feedback/file/importziplib.php
+END
+version.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mhrd/!svn/ver/18/Code/moodle/mod/assign/feedback/file/version.php
+END
+lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mhrd/!svn/ver/18/Code/moodle/mod/assign/feedback/file/lib.php
+END
+renderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mhrd/!svn/ver/18/Code/moodle/mod/assign/feedback/file/renderer.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/mhrd/!svn/ver/18/Code/moodle/admin/tool/log/classes/helper
+END
+store.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mhrd/!svn/ver/18/Code/moodle/admin/tool/log/classes/helper/store.php
+END
+buffered_writer.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mhrd/!svn/ver/18/Code/moodle/admin/tool/log/classes/helper/buffered_writer.php
+END
+reader.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mhrd/!svn/ver/18/Code/moodle/admin/tool/log/classes/helper/reader.php
+END

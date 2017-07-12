@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mhrd/!svn/ver/18/Code/moodle/mod/assign/submission/onlinetext/classes/event
+END
+submission_updated.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mhrd/!svn/ver/18/Code/moodle/mod/assign/submission/onlinetext/classes/event/submission_updated.php
+END
+assessable_uploaded.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mhrd/!svn/ver/18/Code/moodle/mod/assign/submission/onlinetext/classes/event/assessable_uploaded.php
+END
+submission_created.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mhrd/!svn/ver/18/Code/moodle/mod/assign/submission/onlinetext/classes/event/submission_created.php
+END
