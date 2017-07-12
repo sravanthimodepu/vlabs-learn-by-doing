@@ -1,221 +1,0 @@
-10
-
-dir
-19
-http://10.2.52.238/mhrd/Code/moodle/auth
-http://10.2.52.238/mhrd
-
-
-
-2014-10-22T09:16:28.635393Z
-18
-vamsi
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-17c4bada-1e28-4304-a6f2-8ccd4cfac8e9
-
-nntp
-dir
-
-ldap
-dir
-
-pop3
-dir
-
-shibboleth
-dir
-
-db
-dir
-
-test_settings.php
-file
-
-
-
-
-2014-10-25T08:25:37.615616Z
-1eef2d4029116fb54d62b4adf8a23aae
-2014-10-22T09:16:28.635393Z
-18
-vamsi
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2507
-
-imap
-dir
-
-email
-dir
-
-radius
-dir
-
-fc
-dir
-
-joomdle
-dir
-
-webservice
-dir
-
-none
-dir
-
-tests
-dir
-
-mnet
-dir
-
-nologin
-dir
-
-upgrade.txt
-file
-
-
-
-
-2014-10-25T08:25:37.615616Z
-3189cbd79c94c1d5efe998b6331a3977
-2014-10-22T09:16:28.635393Z
-18
-vamsi
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1160
-
-cas
-dir
-
-yui
-dir
-
-index.html
-file
-
-
-
-
-2014-10-25T08:25:37.615616Z
-d41d8cd98f00b204e9800998ecf8427e
-2014-10-22T09:16:28.635393Z
-18
-vamsi
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-0
-
-README.txt
-file
-
-
-
-
-2014-10-25T08:25:37.616616Z
-dab85f70e75ddb1678cb4e98c5cc80ee
-2014-10-22T09:16:28.635393Z
-18
-vamsi
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5583
-
-pam
-dir
-
-manual
-dir
-

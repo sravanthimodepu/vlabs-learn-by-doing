@@ -1,104 +1,0 @@
-10
-
-dir
-19
-http://10.2.52.238/mhrd/Code/moodle/report
-http://10.2.52.238/mhrd
-
-
-
-2014-10-22T09:16:28.635393Z
-18
-vamsi
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-17c4bada-1e28-4304-a6f2-8ccd4cfac8e9
-
-questioninstances
-dir
-
-outline
-dir
-
-log
-dir
-
-courseoverview
-dir
-
-backups
-dir
-
-stats
-dir
-
-performance
-dir
-
-loglive
-dir
-
-progress
-dir
-
-upgrade.txt
-file
-
-
-
-
-2014-10-25T08:26:54.898076Z
-21f4c6960e94f39d74b79265437850a1
-2014-10-22T09:16:28.635393Z
-18
-vamsi
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1908
-
-participation
-dir
-
-security
-dir
-
-configlog
-dir
-
-completion
-dir
-
-eventlist
-dir
-
