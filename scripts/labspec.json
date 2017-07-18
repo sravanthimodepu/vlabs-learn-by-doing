@@ -75,7 +75,7 @@
           "min_required": "2gb"
         },
         "storage": {
-          "min_required": "20gb"
+          "min_required": "50gb"
         },
         "installer": [
           "bash mysql-php.sh",
