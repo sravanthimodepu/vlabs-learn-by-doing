@@ -13,7 +13,7 @@ mysql -u root -p'Virtual-Labs123!@#' -e "create database mediawiki; GRANT ALL PR
 wget http://files.vlabs.ac.in/lbd-project/wiki-dump.sql.tar.gz
 tar -xvf wiki-dump.sql.tar.gz
 
-mysql -u root -p'Virtual-Labs123!@#' mediawiki < wiki-dump.sql
+mysql -u root -p'Virtual-Labs123!@#' mediawiki < wiki.sql
 
 
 ###############install moodle ##########################
