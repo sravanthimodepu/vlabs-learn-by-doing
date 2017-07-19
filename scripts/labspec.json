@@ -56,7 +56,7 @@
             "cd ../;make build"
           ],
           "post_build": [
-            "cp -r ../src/index.org /var/www/html/",
+            "cp -r ../build/docs/index.html /var/www/html/",
             "chmod -R 755 /var/www/html/*"
           ],
           "status": []
