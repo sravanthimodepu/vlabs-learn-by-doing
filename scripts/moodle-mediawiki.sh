@@ -10,12 +10,14 @@ sudo service mysqld start
 ################# mediawiki database ##################
 #mysql -u root -p'Vitual-Labs123!@#' -e "create database wiki; GRANT ALL PRIVILEGES ON wiki.* TO root@localhost IDENTIFIED BY 'Virtual-Labs123!@#'; FLUSH PRIVILEGES"
 
+mysql -u root -p'Serc8!@#' -e "create database wiki" 
 
 
-#wget http://files.vlabs.ac.in/lbd-project/wiki-dump.sql.tar.gz
-#tar -xvf wiki-dump.sql.tar.gz
 
-#mysql -u root -p'Virtual-Labs123!@#' mediawiki < wiki.sql
+wget http://files.vlabs.ac.in/lbd-project/wiki-dump.sql.tar.gz
+tar -xvf wiki-dump.sql.tar.gz
+
+mysql -u root -p'Serc8!@#' wiki < wiki.sql
 
 
 ###############install moodle ##########################
@@ -43,7 +45,9 @@ chmod -R 755 /var/www/html/moodle/
 ############## moodle database ###############################
 #mysql -uroot -p'Virtual-Labs123!@#' -e "create database moodle; GRANT ALL PRIVILEGES ON moodle.* TO root@localhost IDENTIFIED BY 'Virtual-Labs123!@#'; FLUSH PRIVILEGES"
 
-#mysql -u root -p'Virtual-Labs123!@#' moodle < testmoodle.sql
+mysql -u root -p'Serc8!@#' -e "create database moodle" 
+
+mysql -u root -p'Serc8!@#' moodle < testmoodle.sql
 
 ############copy moodledata files ########################
 #wget http://files.vlabs.ac.in/lbd-project/moodledata.tar.gz

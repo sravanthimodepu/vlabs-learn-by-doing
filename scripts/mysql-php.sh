@@ -3,7 +3,7 @@
 #mysqlRootPass="$(pwmake 128)"
 #mysqlRootPass="Virtual-Labs123!@#"
 #mysqlRootPass="VLead@123"
-mysqlRootPass="Vead-123!@#"
+mysqlRootPass="Serc8!@#"
 #mysqlRootPass="root"
 echo ' -> Removing previous mysql server installation'
 service mysqld stop && yum remove -y mysql-community-server && rm -rf /var/lib/mysql && rm -rf /var/log/mysqld.log && rm -rf /etc/my.cnf
