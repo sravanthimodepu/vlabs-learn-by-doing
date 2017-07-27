@@ -1,0 +1,160 @@
+#+TITLE: LMS site with Moodle on AWS
+#+AUTHOR: VLEAD Systems
+#+DATE: [2017-06-16 Thu]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+ This document describes to build a LMS site with Moodle on CentOS 6.x operating system.
+* What is Moodle?
+Moodle is a Course Management System (CMS), also known as a Learning
+Management System (LMS) or a Virtual Learning Environment (VLE). It is
+a free web application that educators can use to create effective
+online/offline learning sites.
+* Prerequisites
+You should install htppd and mysql server first. And moodle needs the following PHP extensions to run properly.
+#+BEGIN_EXAMPLE
+[centos@lbd-server ~]# sudo yum install -y httpd php mysql-server
+#+END_EXAMPLE
+#+BEGIN_EXAMPLE
+[centos@lbd-server ~]# sudo yum install php-iconv php-mbstring php-curl php-openssl php-tokenizer php-xmlpc php-soap php-ctype php-zip php-gd php-simplexml php-spl php-pcre php-dom php-xml php-intl php-json php-ldap php-pecl-apc -y
+#+END_EXAMPLE
+Start the services and make it running on boot
+#+BEGIN_EXAMPLE
+[centos@lbd-server ~]# sudo service mysqld start 
+[centos@lbd-server ~]# sudo chkconfig mysqld on
+ 
+[centos@lbd-server ~]# sudo service httpd start
+[centos@lbd-server ~]# sudo chkconfig httpd on   
+#+END_EXAMPLE
+Set =root= password for mysql
+#+BEGIN_EXAMPLE
+[centos@lbd-server ~]# /usr/bin/mysql_secure_installation
+#+END_EXAMPLE
+PHP settings
+
+Open up */etc/php.ini* file and make sure that you have configured the settings as shown below
+#+BEGIN_EXAMPLE
+[centos@lbd-server ~]# sudo vim /etc/php.ini
+ register_globals = Off
+ safe_mode = Off
+ memory_limit = 128M
+ session.save_handler = files
+ magic_quotes_gpc = Off
+ magic_quotes_runtime = Off
+ file_uploads = On
+ session.auto_start = 0
+ session.bug_compat_warn = Off
+ post_max_size = 100M
+ upload_max_filesize = 100M
+#+END_EXAMPLE
+Restart your web server:
+#+BEGIN_EXAMPLE
+[centos@lbd-server ~]# sudo service httpd restart
+#+END_EXAMPLE
+Create MySQL database and user for Moodle
+
+Here I create a database ‘moodledb’ and a user ‘root’ with password ‘vlead123’:
+
+#+BEGIN_EXAMPLE
+[centos@lbd-server ~]# mysql -uroot -pvlead123
+mysql> create database moodledb;
+mysql> GRANT ALL PRIVILEGES ON moodledb.* TO 'root' IDENTIFIED BY 'vlead123';
+mysql> flush privileges;
+mysql> exit
+#+END_EXAMPLE
+* Install Moodle
+Download the latest version from [[https://download.moodle.org/][here]]. Or you can directly download from the terminal using the following command:
+#+BEGIN_EXAMPLE
+[centos@lbd-server ~]# wget http://download.moodle.org/download.php/direct/stable25/moodle-latest-25.zip
+#+END_EXAMPLE
+Extract the downloaded zip file:
+#+BEGIN_EXAMPLE
+[centos@lbd-server ~]# unzip moodle-latest-25.zip
+#+END_EXAMPLE
+This will create a new directory called moodle in your current
+directory. Copy all the contents of moodle to your website root
+document folder.
+
+If your server is dedicated to host only moodle site, copy the
+contents of your moodle directory to =/var/www/html/= directory.
+
+If your server is shared server, copy the contents of moodle directory to =/var/www/html/moodle/=
+
+Here I use a sub directory to host my moodle site. So the command should be
+#+BEGIN_EXAMPLE
+[centos@lbd-server ~]# cp -fr moodle/ /var/www/html/moodle
+#+END_EXAMPLE
+Set the following permissions for root user to moodle directory:
+#+BEGIN_EXAMPLE
+[centos@lbd-server ~]# chown -R root /var/www/html/moodle/
+[centos@lbd-server ~]# chmod -R 755 /var/www/html/moodle/
+#+END_EXAMPLE
+Create data directory for moodle
+
+Moodle requires a directory to store all of its files (all your site’s
+uploaded files, temporary data, session data etc.). The web server
+needs to be able to write to this directory. On larger systems
+consider how much free space you are going to use when allocating this
+directory.
+#+BEGIN_EXAMPLE
+[centos@lbd-server ~]# sudo mkdir /var/www/moodledata/
+[centos@lbd-server ~]# sudo chmod 777 /var/www/moodledata/
+#+END_EXAMPLE
+Begin Moodle installation Open up your web browser and navigate to
+http://ip-address/ if you copied the moodle directory contents to
+Apache document root folder or http://ip-address/moodle if you copied
+the moodle directory contents to a sub directory of Apache root.
+
+ - Choose your desired language and press Next.
+ - Enter Moodle data directory path and press Next.
+ - Select the database driver. In my case it’s mysql. Press Next.
+ - Enter database name and database user details and press Next.
+ - You will be asked to save the settings. The installer will ask you
+   to create a =config.php= file in your moodle root folder with the
+   contents of below output.
+ - So let us create a config.php file with following command:
+#+BEGIN_EXAMPLE
+[centos@lbd-server ~]# sudo vim /var/www/html/moodle/config.php
+#+END_EXAMPLE
+Add the lines from the above output as shown below:
+#+BEGIN_EXAMPLE
+<?php  // Moodle configuration file
+
+unset($CFG);
+global $CFG;
+$CFG = new stdClass();
+
+$CFG->dbtype    = 'mysqli';
+$CFG->dblibrary = 'native';
+$CFG->dbhost    = 'localhost';
+$CFG->dbname    = 'moodledb';
+$CFG->dbuser    = 'root';
+$CFG->dbpass    = 'vlead123';
+$CFG->prefix    = 'mdl_';
+$CFG->dboptions = array (
+  'dbpersist' => 0,
+  'dbsocket' => 0,
+);
+
+$CFG->wwwroot   = 'http://54.183.112.22/moodle';
+$CFG->dataroot  = '/var/www/moodledata/';
+$CFG->admin     = 'admin';
+
+$CFG->directorypermissions = 0777;
+
+require_once(dirname(__FILE__) . '/lib/setup.php');
+
+// There is no php closing tag in this file,
+// it is intentional because it prevents trailing whitespace problems!
+#+END_EXAMPLE
+ - Now click Next. And click on Continue to accept the License Agreement.
+ - Now the installer will check for all necessary modules are installed. If everything seems OK, press Continue.
+ - The moodle installer will create all necessary modules. This will take a while. After it completes everything, click Continue.
+ - Create a Administrator account and click Update.
+ - Enter the Site name and click Save Changes button.
+
+Now your moodle site has been successfully installed.
+
