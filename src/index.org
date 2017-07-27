@@ -56,10 +56,10 @@ This document describes about the setting up mediawiki and moodle for LbD server
  #+END_EXAMPLE
 
 * Install Mediawiki
- Follow the [[https://gitlab.com/vlabs-external-projects/lbd-review-meeting/blob/master/mediawiki-installation.org][link]] to install mediawiki.
+ Follow the [[https://github.com/vlead/vlabs-learn-by-doing/blob/develop/src/wiki-installation.org][link]] to install mediawiki.
 
 * Install Moodle
- Follow the [[https://gitlab.com/vlabs-external-projects/lbd-review-meeting/blob/master/moodle-on-aws.org][link]] to install moodle.
+ Follow the [[https://github.com/vlead/vlabs-learn-by-doing/blob/develop/src/moodle-installation.org][link]] to install moodle.
 
 
 * LbD course details of wiki and moodle.
