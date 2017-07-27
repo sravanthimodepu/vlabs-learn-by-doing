@@ -63,8 +63,6 @@ This document describes about the setting up mediawiki and moodle for LbD server
 
 
 * LbD course details of wiki and moodle.
-** Introduction
-Importing wiki and moodle database from LbD server to local machine (Base4 10.4.12.133).
 ** Source information
  - Balamma
 ** Detailed information of LbD server (production)
