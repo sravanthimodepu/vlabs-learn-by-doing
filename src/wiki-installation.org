@@ -109,7 +109,7 @@ Importing wiki database from LbD server to local machine.
  - server - 10.4.20.76
  - Credentials - Saved in =password.txt= file under systems team 
  - Location of wiki database in LbD server available at =/home/backup/wiki/=
- - Imported to =/var/www/html/mediawiki/= in [[http://10.4.15.134/mediawiki/][base4 machine]].
+ - Imported to =/var/www/html/mediawiki/= in [[http://lbd.vlabs.ac.in/wiki/][base4 machine]].
  - Size 41 GB
 ** Steps to importing database from LbD server to local machine
  - Copying wiki folder from LbD server to local machine (Base4 container) using rsync
@@ -117,5 +117,5 @@ Importing wiki database from LbD server to local machine.
 rsync -avz -e 'ssh -p 7899' root@10.4.20.76:/home/backup/wiki/* /var/www/html/mediawiki/
 #+END_EXAMPLE
  - Credentials - Saved in =password.txt= file under systems team 
- - Now click [[http://10.4.15.134/mediawiki/][Enter your wiki]] on browser to enter wiki and login using it.
+ - Now click [[http://lbd.vlabs.ac.in/wiki/][Enter your wiki]] on browser to enter wiki and login using it.
 
