@@ -63,8 +63,6 @@ This document describes about the setting up mediawiki and moodle for LbD server
 
 
 * LbD course details of wiki and moodle.
-** Introduction
-Importing wiki and moodle database from LbD server to local machine (Base4 10.4.12.133).
 ** Source information
  - Balamma
 ** Detailed information of LbD server (production)
@@ -116,7 +114,7 @@ rsync -avz -e 'ssh -p 7899' root@10.4.20.76:/home/video/lbdvideos /var/www/html/
 rsync -avz -e 'ssh -p 7899' root@10.4.20.76:/var/www/html/pdf_wiki /var/www/html/
 rsync -avz -e 'ssh -p 7890' root@10.3.0.63:/home/CIT_VIDEOS/mhrd/Analog /var/www/html/
 #+END_EXAMPLE
-** Chaning domain name from http://enhanceedu.iiit.ac.in to lbd.vlabs.ac.in in local machine (Base4)
+** Chaning domain name from http://enhanceedu.iiit.ac.in to http://lbd.vlabs.ac.in in local machine (Base4)
  - Changing domain name from enhanceedu.iiit.ac.in to lbd.vlabs.ac.in
 #+begin_example
 grep -rl "enhanceedu.iiit.ac.in" /root/mysql-dump/* |xargs sed -i "s/enhanceedu.iiit.ac.in/lbd.vlabs.ac.in/g"
