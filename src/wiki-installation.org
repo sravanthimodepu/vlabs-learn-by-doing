@@ -1,0 +1,121 @@
+#+TITLE: Setting up Mediawiki for LBD Server
+#+AUTHOR: VLEAD Systems
+#+DATE: [2017-06-21 Wed]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+This document describes the setting up mediawiki on CentOS6.x and
+importing wiki database from LbD server (production) to local machine.
+* Installing required packages
+Setup epel, rpmfusion and rpmforge repositories and then install following packages:
+ + php
+ + mysql-server
+ + php-mysql
+* Mediawiki
+MediaWiki is a free open source wiki program that allows users to create their own personal wiki sites. 
+** Install mediawiki on CentOS6.X
+Follow the below command to download the latest version of the platform
+#+BEGIN_EXAMPLE
+wget https://releases.wikimedia.org/mediawiki/1.28/mediawiki-1.28.2.tar.gz
+#+END_EXAMPLE
+After the download completes untar the package:
+#+BEGIN_EXAMPLE
+tar xvzf mediawiki-*.tar.gz
+#+END_EXAMPLE
+The default directory for the downloaded contents includes the specified version of the platform-- it may be best to move the contents to a more convenient location
+#+BEGIN_EXAMPLE
+sudo mv mediawiki-1.28.2 /etc/mediawiki
+#+END_EXAMPLE
+Create a symbolic link between the MediaWiki directory and Apache’s document root:
+#+BEGIN_EXAMPLE
+sudo ln -s /etc/mediawiki/ /var/www/html
+#+END_EXAMPLE
+Restart Apache
+#+BEGIN_EXAMPLE
+sudo service httpd restart
+#+END_EXAMPLE
+
+** Create a MySQL Database and User
+ - Log into MySQL
+#+BEGIN_EXAMPLE
+mysql -u root -p
+#+END_EXAMPLE
+ - Create a Dedicated Database
+
+You can name your DB whatever you'd like-- here it will be *example_wiki*.
+#+BEGIN_EXAMPLE
+create database example_wiki;
+#+END_EXAMPLE
+ - Grant Permissions
+
+Next you will provide a user for the new database with the permissions that MediaWiki requires. Replace "wikiuser" and "password" with your own specifications.
+#+BEGIN_EXAMPLE
+grant index, create, select, insert, update, delete, alter, lock tables on my_wiki.* to 'wikiuser'@'localhost' identified by 'password';
+#+END_EXAMPLE
+- Finishing Up
+
+Implement changes and quit MySQL.
+#+BEGIN_EXAMPLE
+FLUSH PRIVILEGES;
+exit;
+#+END_EXAMPLE
+
+ *Visit:* [domain]/mediawiki/index.php.
+
+** To configure mediawiki use following steps:
+ - Extract its source tar ball in document root such as =/var/www/html= folder.
+ - Open the folder using web interface. For example if you have extracted the file in =/var/www/html= folder with sub-folder named mediawiki. Then the mediawiki setup page should be accessible at http://&lt;server_ip&gt;/mediawiki URL
+ - Configure wiki using web interface as follows
+  + Click on setup wiki first option
+  + Leave language and wiki language as English and choose continue
+  + Click continue on environment check page. Note that the message 'The environment has been checked. You can install MediaWiki.' should be present.
+  + Choose database type as Mysql
+  + Leave database host as localhost
+  + Give appropriate database name and leave table prefix empty
+  + Use mysql 'root' user for installation. Enter correct mysql root password and click continue
+  + Deselect 'Use same account as for installation option'
+  + Specify appropriate database username and choose suitable password. The password chosen should ideally be different from mysql root password.
+  + Select 'Create account if it does not exist already'
+  + Leave storage engine as 'InnoDB' and database character set as 'Binary'. Choose continue.
+  + Give appropriate name for wiki
+  + Leave project namespace as same as wikiname
+  + Create administrator account for wiki with administrator name preferably as 'root'. Enter desired root password twice and then admin email address.
+  + Choose 'Ask me more questions' and click continue
+  + Choose appropriate value for user rights profile
+  + Choose appropriate license for wiki
+  + Enable all types of email notifications
+  + Enable all extensions
+  + Do not enable file uploads here. If file uploads are desired then setup uploads as explained in [[http://vlead-wiki.vlabs.ac.in/index.php/Setup_wiki_for_file_uploads][Setup wiki for files upload]] after basic wiki is setup.
+  + Leave 'No caching' option selected and choose 'continue'
+  + Click continue for actual installation
+  + Click continue after installation
+  + A pop-up box for saving LocalSettings.php file would appear. Save the file in your local machine. Copy file to folder where mediawiki tar-ball was extracted on server, for example, =/var/www/html/mediawiki=
+  + Use =chown -R apache:apache= . in =/var/www/html/mediawiki= or appropriate wiki folder.
+  + You can copy the LocalSettings.php file from your computer to the server with cp (copy)
+  #+BEGIN_EXAMPLE
+  cp /path/to/LocalSettings.php /etc/mediawiki
+  #+END_EXAMPLE
+  + Click on 'Enter your wiki' link on browser to enter wiki and start using it.
+
+* LbD courses details of wiki database on LbD production server
+** Introduction
+Importing wiki database from LbD server to local machine.
+** Source information
+ - Balamma
+** Detailed information of LbD server (production)
+ - server - 10.4.20.76
+ - Credentials - Saved in =password.txt= file under systems team 
+ - Location of wiki database in LbD server available at =/home/backup/wiki/=
+ - Imported to =/var/www/html/mediawiki/= in [[http://lbd.vlabs.ac.in/wiki/][base4 machine]].
+ - Size 41 GB
+** Steps to importing database from LbD server to local machine
+ - Copying wiki folder from LbD server to local machine (Base4 container) using rsync
+#+BEGIN_EXAMPLE
+rsync -avz -e 'ssh -p 7899' root@10.4.20.76:/home/backup/wiki/* /var/www/html/mediawiki/
+#+END_EXAMPLE
+ - Credentials - Saved in =password.txt= file under systems team 
+ - Now click [[http://lbd.vlabs.ac.in/wiki/][Enter your wiki]] on browser to enter wiki and login using it.
+

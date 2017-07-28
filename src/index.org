@@ -9,12 +9,11 @@
 * Introduction
 This document describes about the setting up mediawiki and moodle for LbD server on CentOS-6.9.
 
-
 ** Recommended Hardware requirements for moodle and mediawiki
-   - Disk space :: 160MB free (min) plus as much as you need to store
-                   your materials. 5GB is probably a realistic
+   - Disk space :: 100GB free (min) plus as much as you need to store
+                   your materials. 150GB is probably a realistic
                    minimum.
-   - Memory :: 256MB (min), 1GB or more is strongly recommended. The
+   - Memory :: 256MB (min), 2GB or more is strongly recommended. The
                general rule of thumb is that Moodle can support 10 to
                20 concurrent users for every 1GB of RAM, but this will
                vary depending on your specific hardware and software
@@ -30,9 +29,8 @@ This document describes about the setting up mediawiki and moodle for LbD server
       RAM: 2 GB
       vCPU: 1
       CentOS: 6.9
-      DiskSpace: 70 GB
+      DiskSpace: 232 GB
       #+END_SRC
-
 
 * Install required packages
  - Install *php-5.6*
@@ -57,10 +55,89 @@ This document describes about the setting up mediawiki and moodle for LbD server
  #+END_EXAMPLE
 
 * Install Mediawiki
- Follow the [[https://gitlab.com/vlabs-external-projects/lbd-review-meeting/blob/master/mediawiki-installation.org][link]] to install mediawiki.
+ Follow the [[https://github.com/vlead/vlabs-learn-by-doing/blob/develop/src/wiki-installation.org][link]] to install mediawiki.
 
 * Install Moodle
- Follow the [[https://gitlab.com/vlabs-external-projects/lbd-review-meeting/blob/master/moodle-on-aws.org][link]] to install moodle.
+ Follow the [[https://github.com/vlead/vlabs-learn-by-doing/blob/develop/src/moodle-installation.org][link]] to install moodle.
+
+* LbD course details of wiki and moodle.
+** Source information
+ - Balamma, nadeem
+** Detailed information of LbD server (production)
+ - LbD production server - 10.4.20.76
+ - Credentials - Saved in =password.txt= file under systems team 
+ - Location of wiki and moodle database in LbD production server.
+  + *wikidatabase name:* wiki123db
+  + *moodledatabase name:* testmoodle
+  + *Credentials:* Saved in =password.txt= file under systems team 
+ - Location of wiki, moodle, jmoodledata, lbdvideos and pdf_wiki in LbD production server.
+  + *wiki:* =/var/www/html/wiki=
+  + *moodle:* =/var/www/html/moodle=
+  + *lbdvideos:* =/home/video/lbdvideos=
+  + *jmoodledata:* =/var/www/jmoodledata=
+  + *pdf_wiki:* =/var/www/html/pdf_wiki=
+ - FTP backup server - 10.3.0.63
+ - Credentials - Saved in =password.txt= file under systems team 
+ - Location of CIT_VIDEOS, MHRDAnimation, animation and animations in ftp server
+  + *CIT_VIDEOS:* =/home/CIT_VIDEOS/mhrd/Analog/=
+  + *MHRDAnimations:* =/home/databackup/htmlbackup/MHRDAnimations=
+  + *animation:* =/home/databackup/htmlbackup/animation=
+  + *animations:* =/home/databackup/htmlbackup/animations=
+ - Total size of above files is 172GB
+** Detailed information of LbD server (local machine in Base4)
+ - Local machine - 10.4.12.133
+ - Copied wiki and moodle databases from LbD production server to local machine (10.4.12.133)
+  + *wiki:* =/root/mysql-dump/=
+  + *moodle:* =/root/mysql-dump/=
+ - Database details of currently using LbD server in local machine
+  + *wikidatabase name:* wikidb
+  + *moodledatabase name:* moodledb
+ - Copied wiki, moodle, lbdvideos, jmoodledata, pdf_wiki, MHRDAnimations, aninmation, animations and CIT_VIDEOS to local machine
+  + *wiki:* =/var/www/html/wiki=
+  + *moodle:* =/var/www/html/moodle=
+  + *lbdvideos:* =/var/www/html/wiki/lbdvideos=
+  + *jmoodledata:* =/var/www/jmoodledata=
+  + *pdf_wiki:* =/var/www/html/pdf_wiki=
+  + *CIT_VIDEOS:* =/var/www/html/CIT_VIDEOS/mhrd/Analog/=
+  + *MHRDAnimations:* =/var/www/html/MHRDAnimations/=
+  + *animation:* =/var/www/html/animation/=
+  + *animations:* =/var/www/html/animations/=
+** Steps to importing files/folders and databases from LbD production server to local machine (Base4:10.4.12.133)
+ - Copying wiki and moodle databases from LbD production server to local machine
+#+begin_example
+rsync -avz -e 'ssh -p 7899' root@10.4.20.76:/root/wiki-13-07-2017.sql /root/mysql-dump/
+rsync -avz -e 'ssh -p 7899' root@10.4.20.76:/root/moodle-dump-2017-06-20.sql /root/mysql-dump/
+#+end_example
+ - Copying wiki, moodle, jmoodledata, pdf_wiki, lbdvideos, MHRDAnimations, animation, animations and CIT_VIDEOS folders from LbD server to local machine (Base4 container) using rsync
+#+BEGIN_EXAMPLE
+rsync -avz -e 'ssh -p 7899' root@10.4.20.76:/home/backup/wiki/* /var/www/html/wiki/
+rsync -avz -e 'ssh -p 7899' root@10.4.20.76:/home/backup/moodle /var/www/html/
+rsync -avz -e 'ssh -p 7899' root@10.4.20.76:/var/www/jmoodledata /var/www/
+rsync -avz -e 'ssh -p 7899' root@10.4.20.76:/home/video/lbdvideos /var/www/html/wiki/
+rsync -avz -e 'ssh -p 7899' root@10.4.20.76:/var/www/html/pdf_wiki /var/www/html/
+rsync -avz -e 'ssh -p 7890' root@10.3.0.63:/home/CIT_VIDEOS/mhrd/Analog /var/www/html/
+rsync -avz -e 'ssh -p 7890' root@10.3.0.63:/home/databackup/htmlbackup/MHRDAnimations /var/www/html/
+rsync -avz -e 'ssh -p 7890' root@10.3.0.63:/home/databackup/htmlbackup/animation /var/www/html/
+rsync -avz -e 'ssh -p 7890' root@10.3.0.63:/home/databackup/htmlbackup/animations /var/www/html/
+#+END_EXAMPLE
+** Chaning domain name from http://enhanceedu.iiit.ac.in to http://lbd.vlabs.ac.in in local machine (Base4)
+ - Changing domain name from enhanceedu.iiit.ac.in to lbd.vlabs.ac.in
+#+begin_example
+grep -rl "enhanceedu.iiit.ac.in" /root/mysql-dump/* |xargs sed -i "s/enhanceedu.iiit.ac.in/lbd.vlabs.ac.in/g"
+grep -ri "http://enhanceedu.iiit.ac.in" /var/www/jmoodledata/* |xargs sed -i "s/http:\/\/enhanceedu.iiit.ac.in/http:\/\/lbd.vlabs.ac.in/g"
+grep -ri "http://enhanceedu.iiit.ac.in" /var/www/html/* |xargs sed -i "s/http:\/\/enhanceedu.iiit.ac.in/http:\/\/lbd.vlabs.ac.in/g"
+#+end_example
+** Steps to restore mysql dump in local machine
+ - Restoring wiki and moodle databas dump in local machine
+#+begin_example
+mysql -uroot -pxxxx wikidb < wiki-13-07-2017.sql
+mysql -uroot -pxxxx moodledb < moodle-dump-2017-06-20.sql
+#+end_example
+ - Credentials - Saved in =password.txt= file under systems team
+** Access wiki and moodle on browser
+ - Click below links on browser
+  + [[http://lbd.vlabs.ac.in/moodle/][moodle]]
+  + [[http://lbd.vlabs.ac.in/wiki/][wiki]]
 
 * References
 1. [[https://download.moodle.org/]]
