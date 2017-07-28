@@ -1,0 +1,13 @@
+#+TITLE: Learn By Doing Project
+#+AUTHOR: VLEAD Systems
+#+DATE: [2017-07-05 Wed]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+This document describes about the requirements of Learn by Doing project.
+
+* Requirements
+ - Moving domain name from IIIT-H server to VLEAD server, which is http://enhanceedu.iiit.ac.in to http://lbd.vlabs.ac.in
