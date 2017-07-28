@@ -1,4 +1,4 @@
-#+TITLE: Setting up Mediawiki and Moodle for LbD Server
+#+TITLE: Learn By Doing Project
 #+AUTHOR: VLEAD Systems
 #+DATE: [2017-07-05 Wed]
 #+SETUPFILE: ./org-templates/level-0.org
@@ -7,7 +7,7 @@
 #+OPTIONS: ^:nil
 
 * Introduction
-This document describes about the setting up mediawiki and moodle for LbD server on CentOS-6.9.
+This document describes about the setting up mediawiki and moodle for Learn By Doing Project on CentOS-6.9.
 
 ** Recommended Hardware requirements for moodle and mediawiki
    - Disk space :: 100GB free (min) plus as much as you need to store
@@ -63,13 +63,13 @@ This document describes about the setting up mediawiki and moodle for LbD server
 * LbD course details of wiki and moodle.
 ** Source information
  - Balamma, nadeem
-** Detailed information of LbD server (production)
+** Detailed information of LbD production server (i.e http://enhanceedu.iiit.ac.in)
  - LbD production server - 10.4.20.76
- - Credentials - Saved in =password.txt= file under systems team 
+ - Credentials - Saved in =passwords.txt= file under systems team 
  - Location of wiki and moodle database in LbD production server.
   + *wikidatabase name:* wiki123db
   + *moodledatabase name:* testmoodle
-  + *Credentials:* Saved in =password.txt= file under systems team 
+  + *Credentials:* Saved in =passwords.txt= file under systems team 
  - Location of wiki, moodle, jmoodledata, lbdvideos and pdf_wiki in LbD production server.
   + *wiki:* =/var/www/html/wiki=
   + *moodle:* =/var/www/html/moodle=
@@ -77,14 +77,14 @@ This document describes about the setting up mediawiki and moodle for LbD server
   + *jmoodledata:* =/var/www/jmoodledata=
   + *pdf_wiki:* =/var/www/html/pdf_wiki=
  - FTP backup server - 10.3.0.63
- - Credentials - Saved in =password.txt= file under systems team 
+ - Credentials - Saved in =passwords.txt= file under systems team 
  - Location of CIT_VIDEOS, MHRDAnimation, animation and animations in ftp server
   + *CIT_VIDEOS:* =/home/CIT_VIDEOS/mhrd/Analog/=
   + *MHRDAnimations:* =/home/databackup/htmlbackup/MHRDAnimations=
   + *animation:* =/home/databackup/htmlbackup/animation=
   + *animations:* =/home/databackup/htmlbackup/animations=
  - Total size of above files is 172GB
-** Detailed information of LbD server (local machine in Base4)
+** Detailed information of LbD production server (i.e http://lbd.vlabs.ac.in)
  - Local machine - 10.4.12.133
  - Copied wiki and moodle databases from LbD production server to local machine (10.4.12.133)
   + *wiki:* =/root/mysql-dump/=
@@ -127,14 +127,23 @@ grep -rl "enhanceedu.iiit.ac.in" /root/mysql-dump/* |xargs sed -i "s/enhanceedu.
 grep -ri "http://enhanceedu.iiit.ac.in" /var/www/jmoodledata/* |xargs sed -i "s/http:\/\/enhanceedu.iiit.ac.in/http:\/\/lbd.vlabs.ac.in/g"
 grep -ri "http://enhanceedu.iiit.ac.in" /var/www/html/* |xargs sed -i "s/http:\/\/enhanceedu.iiit.ac.in/http:\/\/lbd.vlabs.ac.in/g"
 #+end_example
-** Steps to restore mysql dump in local machine
+** Steps to restore mysql dump in local machine (i.e http://lbd.vlabs.ac.in)
  - Restoring wiki and moodle databas dump in local machine
 #+begin_example
 mysql -uroot -pxxxx wikidb < wiki-13-07-2017.sql
 mysql -uroot -pxxxx moodledb < moodle-dump-2017-06-20.sql
 #+end_example
- - Credentials - Saved in =password.txt= file under systems team
-** Access wiki and moodle on browser
+ - Credentials - Saved in =passwords.txt= file under systems team
+
+* Disk memory details of LbD project
+ - Total size of LbD project is 172 GB.
+
+** Access wiki and moodle on browser (i.e http://enhanceedu.iiit.ac.in)
+ - Click below links on browser
+  + [[http://enhanceedu.iiit.ac.in/moodle/][moodle]]
+  + [[http://enhanceedu.iiit.ac.in/wiki/][wiki]]
+
+** Access wiki and moodle on browser (i.e http://lbd.vlabs.ac.in)
  - Click below links on browser
   + [[http://lbd.vlabs.ac.in/moodle/][moodle]]
   + [[http://lbd.vlabs.ac.in/wiki/][wiki]]
