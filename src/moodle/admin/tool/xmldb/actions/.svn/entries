@@ -1,249 +1,0 @@
-10
-
-dir
-19
-http://10.2.52.238/mhrd/Code/moodle/admin/tool/xmldb/actions
-http://10.2.52.238/mhrd
-
-
-
-2014-10-22T09:16:28.635393Z
-18
-vamsi
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-17c4bada-1e28-4304-a6f2-8ccd4cfac8e9
-
-get_db_directories
-dir
-
-load_xml_files
-dir
-
-delete_xml_file
-dir
-
-view_index_xml
-dir
-
-view_reserved_words
-dir
-
-edit_field
-dir
-
-view_table_php
-dir
-
-view_xml
-dir
-
-edit_table
-dir
-
-check_bigints
-dir
-
-check_indexes
-dir
-
-new_field
-dir
-
-edit_key
-dir
-
-XMLDBAction.class.php
-file
-
-
-
-
-2014-10-25T08:27:19.634224Z
-756aa2c4cf4c066193da5cda23d656fc
-2014-10-22T09:16:28.635393Z
-18
-vamsi
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-9158
-
-revert_changes
-dir
-
-new_table
-dir
-
-new_key
-dir
-
-unload_xml_file
-dir
-
-edit_xml_file
-dir
-
-move_updown_field
-dir
-
-delete_field
-dir
-
-edit_field_save
-dir
-
-check_oracle_semantics
-dir
-
-new_table_from_mysql
-dir
-
-delete_table
-dir
-
-move_updown_table
-dir
-
-view_structure_sql
-dir
-
-move_updown_key
-dir
-
-edit_table_save
-dir
-
-delete_key
-dir
-
-view_structure_xml
-dir
-
-generate_all_documentation
-dir
-
-edit_index
-dir
-
-save_xml_file
-dir
-
-new_index
-dir
-
-check_foreign_keys
-dir
-
-edit_xml_file_save
-dir
-
-create_xml_file
-dir
-
-generate_documentation
-dir
-
-move_updown_index
-dir
-
-delete_index
-dir
-
-edit_index_save
-dir
-
-XMLDBCheckAction.class.php
-file
-
-
-
-
-2014-10-25T08:27:19.635224Z
-f981a70734542d2d8651b92a61b8d441
-2014-10-22T09:16:28.635393Z
-18
-vamsi
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8723
-
-view_field_xml
-dir
-
-load_xml_file
-dir
-
-view_table_sql
-dir
-
-view_structure_php
-dir
-
-view_table_xml
-dir
-
-view_key_xml
-dir
-
-check_defaults
-dir
-
-edit_key_save
-dir
-
-template
-dir
-
-main_view
-dir
-
