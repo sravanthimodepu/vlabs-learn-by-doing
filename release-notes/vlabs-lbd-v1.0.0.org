@@ -1,0 +1,35 @@
+#+TITLE: VLABS LbD v1.0.0
+#+AUTHOR: VLEAD Systems
+#+DATE: [2017-07-28]
+
+* Introduction
+  This document describes the release notes of =VLABS LbD= version
+  =v1.0.0=.
+
+
+* Features 
+  Currently VLABS LbD on lbd.vlabs.ac.in contains the following features
+  + 11 LbD courses, content, animations, illustations, playgrounds and lbdvideos are serving from lbd.vlabs.ac.in/moodle
+  + LbD courses related source content is serving from lbd.vlabs.ac.in/wiki
+
+* Issues
+  https://github.com/vlead/vlabs-learn-by-doing/issues/2
+
+  https://github.com/vlead/vlabs-learn-by-doing/issues/1
+
+  https://gitlab.com/vlabs-external-projects/lbd-review-meeting/issues/7
+
+  https://gitlab.com/vlabs-external-projects/lbd-review-meeting/issues/5
+
+  https://gitlab.com/vlabs-external-projects/lbd-review-meeting/issues/4
+
+  https://gitlab.com/vlabs-external-projects/lbd-review-meeting/issues/3
+
+
+
+* Milestone1
+  https://github.com/vlead/vlabs-learn-by-doing/milestone/1
+
+* Documentation
+  https://github.com/vlead/vlabs-learn-by-doing/blob/master/src/index.org
+
