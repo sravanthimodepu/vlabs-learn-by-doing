@@ -9,8 +9,8 @@
 
 * Features 
   Currently VLABS LbD on lbd.vlabs.ac.in contains the following features
-  + 11 Lbdcourses, content, animations, illustations, playgrounds and lbdvideos are serving from lbd.vlabs.ac.in/moodle
-  + Lbdcourses related source content is serving from lbd.vlabs.ac.in/wiki
+  + 11 LbD courses, content, animations, illustations, playgrounds and lbdvideos are serving from lbd.vlabs.ac.in/moodle
+  + LbD courses related source content is serving from lbd.vlabs.ac.in/wiki
 
 * Issues
   https://github.com/vlead/vlabs-learn-by-doing/issues/2
