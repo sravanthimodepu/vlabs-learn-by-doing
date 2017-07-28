@@ -102,7 +102,7 @@ This document describes about the setting up mediawiki and moodle for Learn By D
   + *MHRDAnimations:* =/var/www/html/MHRDAnimations/=
   + *animation:* =/var/www/html/animation/=
   + *animations:* =/var/www/html/animations/=
-** Steps to importing files/folders and databases from LbD production server to local machine (Base4:10.4.12.133)
+** Steps to importing files/folders and databases from LbD production server to local machine (i.e http://lbd.vlabs.ac.in)
  - Copying wiki and moodle databases from LbD production server to local machine
 #+begin_example
 rsync -avz -e 'ssh -p 7899' root@10.4.20.76:/root/wiki-13-07-2017.sql /root/mysql-dump/
