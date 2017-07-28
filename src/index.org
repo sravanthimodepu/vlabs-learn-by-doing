@@ -32,7 +32,6 @@ This document describes about the setting up mediawiki and moodle for LbD server
       DiskSpace: 232 GB
       #+END_SRC
 
-
 * Install required packages
  - Install *php-5.6*
  #+BEGIN_EXAMPLE
@@ -61,10 +60,9 @@ This document describes about the setting up mediawiki and moodle for LbD server
 * Install Moodle
  Follow the [[https://github.com/vlead/vlabs-learn-by-doing/blob/develop/src/moodle-installation.org][link]] to install moodle.
 
-
 * LbD course details of wiki and moodle.
 ** Source information
- - Balamma
+ - Balamma, nadeem
 ** Detailed information of LbD server (production)
  - LbD production server - 10.4.20.76
  - Credentials - Saved in =password.txt= file under systems team 
@@ -80,8 +78,11 @@ This document describes about the setting up mediawiki and moodle for LbD server
   + *pdf_wiki:* =/var/www/html/pdf_wiki=
  - FTP backup server - 10.3.0.63
  - Credentials - Saved in =password.txt= file under systems team 
- - Location of CIT_VIDEOS in ftp server
+ - Location of CIT_VIDEOS, MHRDAnimation, animation and animations in ftp server
   + *CIT_VIDEOS:* =/home/CIT_VIDEOS/mhrd/Analog/=
+  + *MHRDAnimations:* =/home/databackup/htmlbackup/MHRDAnimations=
+  + *animation:* =/home/databackup/htmlbackup/animation=
+  + *animations:* =/home/databackup/htmlbackup/animations=
  - Total size of above files is 172GB
 ** Detailed information of LbD server (local machine in Base4)
  - Local machine - 10.4.12.133
@@ -91,21 +92,23 @@ This document describes about the setting up mediawiki and moodle for LbD server
  - Database details of currently using LbD server in local machine
   + *wikidatabase name:* wikidb
   + *moodledatabase name:* moodledb
- - Copied wiki, moodle, lbdvideos, jmoodledata, pdf_wiki and CIT_VIDEOS to local machine
+ - Copied wiki, moodle, lbdvideos, jmoodledata, pdf_wiki, MHRDAnimations, aninmation, animations and CIT_VIDEOS to local machine
   + *wiki:* =/var/www/html/wiki=
   + *moodle:* =/var/www/html/moodle=
   + *lbdvideos:* =/var/www/html/wiki/lbdvideos=
   + *jmoodledata:* =/var/www/jmoodledata=
   + *pdf_wiki:* =/var/www/html/pdf_wiki=
   + *CIT_VIDEOS:* =/var/www/html/CIT_VIDEOS/mhrd/Analog/=
-
+  + *MHRDAnimations:* =/var/www/html/MHRDAnimations/=
+  + *animation:* =/var/www/html/animation/=
+  + *animations:* =/var/www/html/animations/=
 ** Steps to importing files/folders and databases from LbD production server to local machine (Base4:10.4.12.133)
  - Copying wiki and moodle databases from LbD production server to local machine
 #+begin_example
 rsync -avz -e 'ssh -p 7899' root@10.4.20.76:/root/wiki-13-07-2017.sql /root/mysql-dump/
 rsync -avz -e 'ssh -p 7899' root@10.4.20.76:/root/moodle-dump-2017-06-20.sql /root/mysql-dump/
 #+end_example
- - Copying wiki, moodle, jmoodledata, pdf_wiki, lbdvideos and CIT_VIDEOS folders from LbD server to local machine (Base4 container) using rsync
+ - Copying wiki, moodle, jmoodledata, pdf_wiki, lbdvideos, MHRDAnimations, animation, animations and CIT_VIDEOS folders from LbD server to local machine (Base4 container) using rsync
 #+BEGIN_EXAMPLE
 rsync -avz -e 'ssh -p 7899' root@10.4.20.76:/home/backup/wiki/* /var/www/html/wiki/
 rsync -avz -e 'ssh -p 7899' root@10.4.20.76:/home/backup/moodle /var/www/html/
@@ -113,6 +116,9 @@ rsync -avz -e 'ssh -p 7899' root@10.4.20.76:/var/www/jmoodledata /var/www/
 rsync -avz -e 'ssh -p 7899' root@10.4.20.76:/home/video/lbdvideos /var/www/html/wiki/
 rsync -avz -e 'ssh -p 7899' root@10.4.20.76:/var/www/html/pdf_wiki /var/www/html/
 rsync -avz -e 'ssh -p 7890' root@10.3.0.63:/home/CIT_VIDEOS/mhrd/Analog /var/www/html/
+rsync -avz -e 'ssh -p 7890' root@10.3.0.63:/home/databackup/htmlbackup/MHRDAnimations /var/www/html/
+rsync -avz -e 'ssh -p 7890' root@10.3.0.63:/home/databackup/htmlbackup/animation /var/www/html/
+rsync -avz -e 'ssh -p 7890' root@10.3.0.63:/home/databackup/htmlbackup/animations /var/www/html/
 #+END_EXAMPLE
 ** Chaning domain name from http://enhanceedu.iiit.ac.in to http://lbd.vlabs.ac.in in local machine (Base4)
  - Changing domain name from enhanceedu.iiit.ac.in to lbd.vlabs.ac.in
